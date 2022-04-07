@@ -1,0 +1,248 @@
+INFO  16:15:37,051 - Compiling source file: D:\Cetvrta godina\Programski Prevodioci\projekat_v2\workspace\MJCompiler\test\program.mj
+INFO  16:15:37,146 - #2 program
+INFO  16:15:37,146 - #41 test301
+INFO  16:15:37,146 - #41 bool
+INFO  16:15:37,149 - #41 a
+INFO  16:15:37,150 - #31 ;
+INFO  16:15:37,151 - #7 const
+INFO  16:15:37,152 - #41 int
+INFO  16:15:37,152 - #41 nula
+INFO  16:15:37,152 - #28 =
+INFO  16:15:37,153 - #42 0
+INFO  16:15:37,153 - #31 ;
+INFO  16:15:37,154 - #7 const
+INFO  16:15:37,155 - #41 int
+INFO  16:15:37,155 - #41 jedan
+INFO  16:15:37,155 - #28 =
+INFO  16:15:37,155 - #42 1
+INFO  16:15:37,156 - #31 ;
+INFO  16:15:37,156 - #7 const
+INFO  16:15:37,156 - #41 int
+INFO  16:15:37,156 - #41 pet
+INFO  16:15:37,157 - #28 =
+INFO  16:15:37,157 - #42 5
+INFO  16:15:37,157 - #31 ;
+INFO  16:15:37,157 - #41 int
+INFO  16:15:37,157 - #41 b
+INFO  16:15:37,157 - #31 ;
+INFO  16:15:37,157 - #41 int
+INFO  16:15:37,158 - #41 niz
+INFO  16:15:37,158 - #37 [
+INFO  16:15:37,158 - #38 ]
+INFO  16:15:37,158 - #31 ;
+INFO  16:15:37,158 - #41 char
+INFO  16:15:37,158 - #41 nizch
+INFO  16:15:37,158 - #37 [
+INFO  16:15:37,158 - #38 ]
+INFO  16:15:37,158 - #31 ;
+INFO  16:15:37,159 - #39 {
+INFO  16:15:37,159 - #15 void
+INFO  16:15:37,159 - #41 main
+INFO  16:15:37,159 - #35 (
+INFO  16:15:37,160 - #36 )
+INFO  16:15:37,160 - #41 int
+INFO  16:15:37,161 - #41 bodovi
+INFO  16:15:37,161 - #31 ;
+INFO  16:15:37,161 - #39 {
+INFO  16:15:37,162 - #41 bodovi
+INFO  16:15:37,162 - #28 =
+INFO  16:15:37,165 - #42 1
+INFO  16:15:37,165 - #31 ;
+INFO  16:15:37,168 - #41 bodovi
+INFO  16:15:37,169 - #28 =
+INFO  16:15:37,169 - #42 4
+INFO  16:15:37,169 - #45 +
+INFO  16:15:37,169 - #42 6
+INFO  16:15:37,170 - #47 *
+INFO  16:15:37,170 - #42 2
+INFO  16:15:37,170 - #31 ;
+INFO  16:15:37,170 - #40 }
+INFO  16:15:37,171 - #40 }
+INFO  16:15:37,182 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclVar(
+    DeclVar(
+      DeclVar(
+        DeclConst(
+          DeclConst(
+            DeclConst(
+              DeclVar(
+                NoDeclaration(
+                ) [NoDeclaration]
+                VarDeclaration(
+                  Type(
+                   bool
+                  ) [Type]
+                 a
+                  NoVarIdentDecl(
+                  ) [NoVarIdentDecl]
+                ) [VarDeclaration]
+              ) [DeclVar]
+              NumConstDecl(
+                Type(
+                 int
+                ) [Type]
+               nula
+               0
+                NoConstIdentDecl(
+                ) [NoConstIdentDecl]
+              ) [NumConstDecl]
+            ) [DeclConst]
+            NumConstDecl(
+              Type(
+               int
+              ) [Type]
+             jedan
+             1
+              NoConstIdentDecl(
+              ) [NoConstIdentDecl]
+            ) [NumConstDecl]
+          ) [DeclConst]
+          NumConstDecl(
+            Type(
+             int
+            ) [Type]
+           pet
+           5
+            NoConstIdentDecl(
+            ) [NoConstIdentDecl]
+          ) [NumConstDecl]
+        ) [DeclConst]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         b
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [DeclVar]
+      VarArrayDecl(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarIdentDecl(
+        ) [NoVarIdentDecl]
+      ) [VarArrayDecl]
+    ) [DeclVar]
+    VarArrayDecl(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarIdentDecl(
+      ) [NoVarIdentDecl]
+    ) [VarArrayDecl]
+  ) [DeclVar]
+  MethodDeclarations(
+    MethodDeclWithRetVoid(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         bodovi
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      Statements(
+        NoLabelSingleStmt(
+          DesignStmt(
+            DesignStmtAssignExpr(
+              DesignAssignStatement(
+                Designator(
+                  DesignName(
+                   bodovi
+                  ) [DesignName]
+                  NoArrayAccess(
+                  ) [NoArrayAccess]
+                ) [Designator]
+                Assignop(
+                ) [Assignop]
+                ExprAddOpTermList(
+                  Term(
+                    FactorNumConst(
+                     1
+                    ) [FactorNumConst]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                ) [ExprAddOpTermList]
+              ) [DesignAssignStatement]
+            ) [DesignStmtAssignExpr]
+          ) [DesignStmt]
+        ) [NoLabelSingleStmt]
+        StmtList(
+          NoStmt(
+          ) [NoStmt]
+          NoLabelSingleStmt(
+            DesignStmt(
+              DesignStmtAssignExpr(
+                DesignAssignStatement(
+                  Designator(
+                    DesignName(
+                     bodovi
+                    ) [DesignName]
+                    NoArrayAccess(
+                    ) [NoArrayAccess]
+                  ) [Designator]
+                  Assignop(
+                  ) [Assignop]
+                  ExprAddOpTermList(
+                    Term(
+                      FactorNumConst(
+                       4
+                      ) [FactorNumConst]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                    AddopTerms(
+                      NoAddopTerm(
+                      ) [NoAddopTerm]
+                      Additon(
+                       +
+                      ) [Additon]
+                      Term(
+                        FactorNumConst(
+                         6
+                        ) [FactorNumConst]
+                        MulopFactors(
+                          Multiplication(
+                           *
+                          ) [Multiplication]
+                          FactorNumConst(
+                           2
+                          ) [FactorNumConst]
+                          NoMulopFactor(
+                          ) [NoMulopFactor]
+                        ) [MulopFactors]
+                      ) [Term]
+                    ) [AddopTerms]
+                  ) [ExprAddOpTermList]
+                ) [DesignAssignStatement]
+              ) [DesignStmtAssignExpr]
+            ) [DesignStmt]
+          ) [NoLabelSingleStmt]
+        ) [StmtList]
+      ) [Statements]
+    ) [MethodDeclWithRetVoid]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:15:37,183 - ===================================
+INFO  16:15:37,187 - Obradjuje se funkcija main na liniji 15
+INFO  16:15:37,188 - Pretraga na 18(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  16:15:37,188 - Pretraga na 19(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  16:15:37,189 - Sintaksna i semanticka analiza je uspesno zavrsena!

@@ -1,0 +1,282 @@
+INFO  23:15:17,201 - Compiling source file: D:\Cetvrta godina\Programski Prevodioci\projekat_v2\workspace\MJCompiler\test\program.mj
+INFO  23:15:17,301 - #2 program
+INFO  23:15:17,301 - #41 test301
+INFO  23:15:17,302 - #7 const
+INFO  23:15:17,303 - #41 int
+INFO  23:15:17,304 - #41 nula
+INFO  23:15:17,305 - #28 =
+INFO  23:15:17,305 - #42 0
+INFO  23:15:17,305 - #31 ;
+INFO  23:15:17,306 - #7 const
+INFO  23:15:17,306 - #41 int
+INFO  23:15:17,306 - #41 jedan
+INFO  23:15:17,306 - #28 =
+INFO  23:15:17,307 - #42 1
+INFO  23:15:17,307 - #31 ;
+INFO  23:15:17,307 - #7 const
+INFO  23:15:17,308 - #41 int
+INFO  23:15:17,308 - #41 pet
+INFO  23:15:17,308 - #28 =
+INFO  23:15:17,308 - #42 5
+INFO  23:15:17,308 - #31 ;
+INFO  23:15:17,309 - #7 const
+INFO  23:15:17,310 - #41 bool
+INFO  23:15:17,310 - #41 flag
+INFO  23:15:17,310 - #28 =
+INFO  23:15:17,310 - #44 true
+INFO  23:15:17,310 - #31 ;
+INFO  23:15:17,310 - #7 const
+INFO  23:15:17,311 - #41 char
+INFO  23:15:17,311 - #41 a
+INFO  23:15:17,311 - #28 =
+INFO  23:15:17,312 - #43 a
+INFO  23:15:17,312 - #31 ;
+INFO  23:15:17,312 - #7 const
+INFO  23:15:17,312 - #41 int
+INFO  23:15:17,313 - #41 pet
+INFO  23:15:17,313 - #28 =
+INFO  23:15:17,313 - #42 5
+INFO  23:15:17,313 - #31 ;
+INFO  23:15:17,314 - #7 const
+INFO  23:15:17,314 - #41 bool
+INFO  23:15:17,314 - #41 flag
+INFO  23:15:17,314 - #28 =
+INFO  23:15:17,316 - #44 true
+INFO  23:15:17,316 - #31 ;
+INFO  23:15:17,316 - #7 const
+INFO  23:15:17,316 - #41 char
+INFO  23:15:17,316 - #41 a
+INFO  23:15:17,317 - #28 =
+INFO  23:15:17,317 - #43 a
+INFO  23:15:17,317 - #31 ;
+INFO  23:15:17,317 - #41 int
+INFO  23:15:17,317 - #41 niz
+INFO  23:15:17,317 - #37 [
+INFO  23:15:17,317 - #38 ]
+INFO  23:15:17,318 - #31 ;
+INFO  23:15:17,319 - #41 char
+INFO  23:15:17,319 - #41 nizch
+INFO  23:15:17,319 - #37 [
+INFO  23:15:17,319 - #38 ]
+INFO  23:15:17,319 - #31 ;
+INFO  23:15:17,320 - #39 {
+INFO  23:15:17,320 - #15 void
+INFO  23:15:17,320 - #41 main
+INFO  23:15:17,320 - #35 (
+INFO  23:15:17,321 - #36 )
+INFO  23:15:17,321 - #41 int
+INFO  23:15:17,322 - #41 bodovi
+INFO  23:15:17,322 - #31 ;
+INFO  23:15:17,326 - #41 int
+INFO  23:15:17,326 - #41 bodovi
+INFO  23:15:17,326 - #31 ;
+INFO  23:15:17,326 - #39 {
+INFO  23:15:17,326 - #18 goto
+INFO  23:15:17,327 - #41 labela
+INFO  23:15:17,327 - #31 ;
+INFO  23:15:17,328 - #41 pet
+INFO  23:15:17,330 - #29 ++
+INFO  23:15:17,332 - #31 ;
+INFO  23:15:17,333 - #41 flag
+INFO  23:15:17,333 - #29 ++
+INFO  23:15:17,333 - #31 ;
+INFO  23:15:17,333 - #42 2
+ERROR 23:15:17,333 - 
+Sintaksna greska na liniji 27
+INFO  23:15:17,333 - #29 ++
+INFO  23:15:17,333 - #31 ;
+INFO  23:15:17,334 - #40 }
+INFO  23:15:17,334 - #40 }
+ERROR 23:15:17,335 - Izvrsen oporavak do ; u liniji 13
+INFO  23:15:17,356 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclVar(
+    DeclVar(
+      DeclConst(
+        DeclConst(
+          DeclConst(
+            DeclConst(
+              DeclConst(
+                DeclConst(
+                  DeclConst(
+                    DeclConst(
+                      NoDeclaration(
+                      ) [NoDeclaration]
+                      NumConstDecl(
+                        Type(
+                         int
+                        ) [Type]
+                       nula
+                       0
+                        NoConstIdentDecl(
+                        ) [NoConstIdentDecl]
+                      ) [NumConstDecl]
+                    ) [DeclConst]
+                    NumConstDecl(
+                      Type(
+                       int
+                      ) [Type]
+                     jedan
+                     1
+                      NoConstIdentDecl(
+                      ) [NoConstIdentDecl]
+                    ) [NumConstDecl]
+                  ) [DeclConst]
+                  NumConstDecl(
+                    Type(
+                     int
+                    ) [Type]
+                   pet
+                   5
+                    NoConstIdentDecl(
+                    ) [NoConstIdentDecl]
+                  ) [NumConstDecl]
+                ) [DeclConst]
+                BoolConstDecl(
+                  Type(
+                   bool
+                  ) [Type]
+                 flag
+                 true
+                  NoConstIdentDecl(
+                  ) [NoConstIdentDecl]
+                ) [BoolConstDecl]
+              ) [DeclConst]
+              CharConstDecl(
+                Type(
+                 char
+                ) [Type]
+               a
+               a
+                NoConstIdentDecl(
+                ) [NoConstIdentDecl]
+              ) [CharConstDecl]
+            ) [DeclConst]
+            NumConstDecl(
+              Type(
+               int
+              ) [Type]
+             pet
+             5
+              NoConstIdentDecl(
+              ) [NoConstIdentDecl]
+            ) [NumConstDecl]
+          ) [DeclConst]
+          BoolConstDecl(
+            Type(
+             bool
+            ) [Type]
+           flag
+           true
+            NoConstIdentDecl(
+            ) [NoConstIdentDecl]
+          ) [BoolConstDecl]
+        ) [DeclConst]
+        CharConstDecl(
+          Type(
+           char
+          ) [Type]
+         a
+         a
+          NoConstIdentDecl(
+          ) [NoConstIdentDecl]
+        ) [CharConstDecl]
+      ) [DeclConst]
+      VarArrayDecl(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarIdentDecl(
+        ) [NoVarIdentDecl]
+      ) [VarArrayDecl]
+    ) [DeclVar]
+    VarArrayDecl(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarIdentDecl(
+      ) [NoVarIdentDecl]
+    ) [VarArrayDecl]
+  ) [DeclVar]
+  MethodDeclarations(
+    MethodDeclWithRetVoid(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarIdentDecl(
+            ) [NoVarIdentDecl]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         bodovi
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      Statements(
+        NoLabelSingleStmt(
+          GotoStmt(
+            Label(
+             labela
+            ) [Label]
+          ) [GotoStmt]
+        ) [NoLabelSingleStmt]
+        StmtList(
+          StmtList(
+            NoStmt(
+            ) [NoStmt]
+            NoLabelSingleStmt(
+              DesignStmt(
+                DesignStmtIncr(
+                  Designator(
+                    DesignName(
+                     pet
+                    ) [DesignName]
+                    NoArrayAccess(
+                    ) [NoArrayAccess]
+                  ) [Designator]
+                ) [DesignStmtIncr]
+              ) [DesignStmt]
+            ) [NoLabelSingleStmt]
+          ) [StmtList]
+          NoLabelSingleStmt(
+            DesignStmt(
+              DesignStmtAssignExpr(
+                DesignatorAssignStatementDerived1(
+                ) [DesignatorAssignStatementDerived1]
+              ) [DesignStmtAssignExpr]
+            ) [DesignStmt]
+          ) [NoLabelSingleStmt]
+        ) [StmtList]
+      ) [Statements]
+    ) [MethodDeclWithRetVoid]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:15:17,357 - ===================================
+ERROR 23:15:17,363 - Greska na 12: pet vec deklarisano na liniji 12
+ERROR 23:15:17,363 - Greska na 13: flag vec deklarisano na liniji 13
+ERROR 23:15:17,363 - Greska na 14: a vec deklarisano na liniji 14
+INFO  23:15:17,363 - Obradjuje se funkcija main na liniji 20
+ERROR 23:15:17,364 - Greska na 22: bodovi vec deklarisano na liniji 22
+INFO  23:15:17,364 - Pretraga na 25(pet) nadjeno Con pet: int, 5, 0
+ERROR 23:15:17,364 - Greska na 25 (pet) je konstanta
+ERROR 23:15:17,364 - Labela labela nije deklarisana na liniji 3
+INFO  23:15:17,365 - Sintaksna i semanticka analiza nije uspesno zavrsena!

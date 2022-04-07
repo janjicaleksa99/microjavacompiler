@@ -1,0 +1,1566 @@
+INFO  14:40:04,723 - Compiling source file: D:\Cetvrta godina\Programski Prevodioci\projekat_v2\workspace\MJCompiler\test\program.mj
+INFO  14:40:04,807 - #2 program
+INFO  14:40:04,807 - #46 test301
+INFO  14:40:04,807 - #46 bool
+INFO  14:40:04,808 - #46 a
+INFO  14:40:04,809 - #36 ;
+INFO  14:40:04,810 - #7 const
+INFO  14:40:04,810 - #46 int
+INFO  14:40:04,810 - #46 nula
+INFO  14:40:04,811 - #33 =
+INFO  14:40:04,811 - #47 0
+INFO  14:40:04,811 - #36 ;
+INFO  14:40:04,811 - #7 const
+INFO  14:40:04,812 - #46 int
+INFO  14:40:04,812 - #46 jedan
+INFO  14:40:04,812 - #33 =
+INFO  14:40:04,812 - #47 1
+INFO  14:40:04,813 - #36 ;
+INFO  14:40:04,813 - #7 const
+INFO  14:40:04,813 - #46 int
+INFO  14:40:04,813 - #46 pet
+INFO  14:40:04,814 - #33 =
+INFO  14:40:04,814 - #47 5
+INFO  14:40:04,814 - #36 ;
+INFO  14:40:04,814 - #46 int
+INFO  14:40:04,814 - #46 niz
+INFO  14:40:04,814 - #42 [
+INFO  14:40:04,814 - #43 ]
+INFO  14:40:04,814 - #36 ;
+INFO  14:40:04,814 - #46 char
+INFO  14:40:04,815 - #46 nizch
+INFO  14:40:04,815 - #42 [
+INFO  14:40:04,815 - #43 ]
+INFO  14:40:04,815 - #36 ;
+INFO  14:40:04,815 - #44 {
+INFO  14:40:04,815 - #15 void
+INFO  14:40:04,815 - #46 main
+INFO  14:40:04,815 - #40 (
+INFO  14:40:04,816 - #41 )
+INFO  14:40:04,817 - #46 int
+INFO  14:40:04,818 - #46 bodovi
+INFO  14:40:04,818 - #36 ;
+INFO  14:40:04,818 - #46 bool
+INFO  14:40:04,818 - #46 abc
+INFO  14:40:04,818 - #36 ;
+INFO  14:40:04,819 - #44 {
+INFO  14:40:04,819 - #46 bodovi
+INFO  14:40:04,819 - #33 =
+INFO  14:40:04,820 - #47 0
+INFO  14:40:04,821 - #36 ;
+INFO  14:40:04,823 - #46 abc
+INFO  14:40:04,824 - #34 ++
+INFO  14:40:04,824 - #36 ;
+INFO  14:40:04,824 - #46 bodovi
+INFO  14:40:04,825 - #34 ++
+INFO  14:40:04,825 - #36 ;
+INFO  14:40:04,825 - #46 bodovi
+INFO  14:40:04,825 - #33 =
+INFO  14:40:04,825 - #46 bodovi
+INFO  14:40:04,825 - #20 +
+INFO  14:40:04,826 - #46 jedan
+INFO  14:40:04,827 - #36 ;
+INFO  14:40:04,827 - #46 bodovi
+INFO  14:40:04,827 - #33 =
+INFO  14:40:04,828 - #46 bodovi
+INFO  14:40:04,828 - #22 *
+INFO  14:40:04,828 - #46 pet
+INFO  14:40:04,830 - #36 ;
+INFO  14:40:04,830 - #46 bodovi
+INFO  14:40:04,831 - #35 --
+INFO  14:40:04,831 - #36 ;
+INFO  14:40:04,831 - #12 print
+INFO  14:40:04,831 - #40 (
+INFO  14:40:04,831 - #46 bodovi
+INFO  14:40:04,831 - #41 )
+INFO  14:40:04,832 - #36 ;
+INFO  14:40:04,832 - #46 niz
+INFO  14:40:04,832 - #33 =
+INFO  14:40:04,832 - #11 new
+INFO  14:40:04,832 - #46 int
+INFO  14:40:04,832 - #42 [
+INFO  14:40:04,832 - #47 3
+INFO  14:40:04,832 - #43 ]
+INFO  14:40:04,833 - #36 ;
+INFO  14:40:04,833 - #46 niz
+INFO  14:40:04,833 - #42 [
+INFO  14:40:04,834 - #46 nula
+INFO  14:40:04,834 - #43 ]
+INFO  14:40:04,834 - #33 =
+INFO  14:40:04,834 - #46 jedan
+INFO  14:40:04,834 - #36 ;
+INFO  14:40:04,834 - #46 niz
+INFO  14:40:04,835 - #42 [
+INFO  14:40:04,835 - #47 1
+INFO  14:40:04,835 - #43 ]
+INFO  14:40:04,835 - #33 =
+INFO  14:40:04,836 - #47 2
+INFO  14:40:04,836 - #36 ;
+INFO  14:40:04,836 - #46 niz
+INFO  14:40:04,837 - #42 [
+INFO  14:40:04,837 - #46 niz
+INFO  14:40:04,837 - #42 [
+INFO  14:40:04,837 - #46 jedan
+INFO  14:40:04,837 - #43 ]
+INFO  14:40:04,837 - #43 ]
+INFO  14:40:04,837 - #33 =
+INFO  14:40:04,838 - #46 niz
+INFO  14:40:04,838 - #42 [
+INFO  14:40:04,838 - #46 niz
+INFO  14:40:04,838 - #42 [
+INFO  14:40:04,838 - #47 0
+INFO  14:40:04,838 - #43 ]
+INFO  14:40:04,838 - #43 ]
+INFO  14:40:04,839 - #22 *
+INFO  14:40:04,839 - #47 3
+INFO  14:40:04,839 - #36 ;
+INFO  14:40:04,839 - #46 bodovi
+INFO  14:40:04,839 - #33 =
+INFO  14:40:04,839 - #46 niz
+INFO  14:40:04,839 - #42 [
+INFO  14:40:04,839 - #47 2
+INFO  14:40:04,839 - #43 ]
+INFO  14:40:04,840 - #23 /
+INFO  14:40:04,840 - #46 niz
+INFO  14:40:04,841 - #42 [
+INFO  14:40:04,841 - #47 0
+INFO  14:40:04,841 - #43 ]
+INFO  14:40:04,841 - #36 ;
+INFO  14:40:04,842 - #12 print
+INFO  14:40:04,842 - #40 (
+INFO  14:40:04,842 - #46 bodovi
+INFO  14:40:04,842 - #41 )
+INFO  14:40:04,842 - #36 ;
+INFO  14:40:04,842 - #12 print
+INFO  14:40:04,842 - #40 (
+INFO  14:40:04,842 - #46 niz
+INFO  14:40:04,842 - #42 [
+INFO  14:40:04,843 - #47 2
+INFO  14:40:04,843 - #43 ]
+INFO  14:40:04,843 - #41 )
+INFO  14:40:04,843 - #36 ;
+INFO  14:40:04,843 - #46 nizch
+INFO  14:40:04,843 - #33 =
+INFO  14:40:04,843 - #11 new
+INFO  14:40:04,843 - #46 char
+INFO  14:40:04,843 - #42 [
+INFO  14:40:04,843 - #47 3
+INFO  14:40:04,843 - #43 ]
+INFO  14:40:04,844 - #36 ;
+INFO  14:40:04,844 - #46 nizch
+INFO  14:40:04,844 - #42 [
+INFO  14:40:04,844 - #47 0
+INFO  14:40:04,844 - #43 ]
+INFO  14:40:04,844 - #33 =
+INFO  14:40:04,844 - #48 a
+INFO  14:40:04,844 - #36 ;
+INFO  14:40:04,845 - #46 nizch
+INFO  14:40:04,845 - #42 [
+INFO  14:40:04,845 - #46 jedan
+INFO  14:40:04,845 - #43 ]
+INFO  14:40:04,845 - #33 =
+INFO  14:40:04,845 - #48 b
+INFO  14:40:04,845 - #36 ;
+INFO  14:40:04,845 - #46 nizch
+INFO  14:40:04,845 - #42 [
+INFO  14:40:04,845 - #46 pet
+INFO  14:40:04,846 - #21 -
+INFO  14:40:04,846 - #47 3
+INFO  14:40:04,847 - #43 ]
+INFO  14:40:04,847 - #33 =
+INFO  14:40:04,847 - #48 c
+INFO  14:40:04,847 - #36 ;
+INFO  14:40:04,847 - #12 print
+INFO  14:40:04,847 - #40 (
+INFO  14:40:04,847 - #46 nizch
+INFO  14:40:04,847 - #42 [
+INFO  14:40:04,848 - #47 1
+INFO  14:40:04,848 - #43 ]
+INFO  14:40:04,848 - #41 )
+INFO  14:40:04,848 - #36 ;
+INFO  14:40:04,848 - #12 print
+INFO  14:40:04,848 - #40 (
+INFO  14:40:04,848 - #46 nizch
+INFO  14:40:04,848 - #42 [
+INFO  14:40:04,848 - #46 jedan
+INFO  14:40:04,848 - #22 *
+INFO  14:40:04,849 - #47 2
+INFO  14:40:04,849 - #43 ]
+INFO  14:40:04,849 - #41 )
+INFO  14:40:04,849 - #36 ;
+INFO  14:40:04,849 - #46 bodovi
+INFO  14:40:04,849 - #33 =
+INFO  14:40:04,849 - #46 bodovi
+INFO  14:40:04,850 - #20 +
+INFO  14:40:04,850 - #40 (
+INFO  14:40:04,850 - #46 pet
+INFO  14:40:04,854 - #22 *
+INFO  14:40:04,854 - #46 jedan
+INFO  14:40:04,854 - #21 -
+INFO  14:40:04,854 - #47 1
+INFO  14:40:04,854 - #41 )
+INFO  14:40:04,855 - #22 *
+INFO  14:40:04,855 - #46 bodovi
+INFO  14:40:04,855 - #21 -
+INFO  14:40:04,855 - #40 (
+INFO  14:40:04,855 - #47 3
+INFO  14:40:04,855 - #24 %
+INFO  14:40:04,855 - #47 2
+INFO  14:40:04,856 - #20 +
+INFO  14:40:04,857 - #47 3
+INFO  14:40:04,857 - #22 *
+INFO  14:40:04,857 - #47 2
+INFO  14:40:04,857 - #21 -
+INFO  14:40:04,857 - #47 3
+INFO  14:40:04,857 - #41 )
+INFO  14:40:04,857 - #36 ;
+INFO  14:40:04,857 - #12 print
+INFO  14:40:04,857 - #40 (
+INFO  14:40:04,858 - #46 bodovi
+INFO  14:40:04,858 - #41 )
+INFO  14:40:04,858 - #36 ;
+INFO  14:40:04,858 - #13 read
+INFO  14:40:04,858 - #40 (
+INFO  14:40:04,858 - #46 bodovi
+INFO  14:40:04,858 - #41 )
+INFO  14:40:04,858 - #36 ;
+INFO  14:40:04,858 - #12 print
+INFO  14:40:04,858 - #40 (
+INFO  14:40:04,859 - #46 bodovi
+INFO  14:40:04,859 - #41 )
+INFO  14:40:04,859 - #36 ;
+INFO  14:40:04,859 - #46 bodovi
+INFO  14:40:04,859 - #34 ++
+INFO  14:40:04,859 - #36 ;
+INFO  14:40:04,859 - #18 goto
+INFO  14:40:04,859 - #46 labela1
+INFO  14:40:04,859 - #36 ;
+INFO  14:40:04,861 - #46 bodovi
+INFO  14:40:04,861 - #33 =
+INFO  14:40:04,861 - #46 bodovi
+INFO  14:40:04,861 - #22 *
+INFO  14:40:04,861 - #47 2
+INFO  14:40:04,861 - #36 ;
+INFO  14:40:04,862 - #46 bodovi
+INFO  14:40:04,862 - #35 --
+INFO  14:40:04,862 - #36 ;
+INFO  14:40:04,862 - #46 labela1
+INFO  14:40:04,862 - #37 :
+INFO  14:40:04,862 - #46 bodovi
+INFO  14:40:04,862 - #33 =
+INFO  14:40:04,862 - #46 bodovi
+INFO  14:40:04,862 - #20 +
+INFO  14:40:04,862 - #47 3
+INFO  14:40:04,862 - #36 ;
+INFO  14:40:04,863 - #12 print
+INFO  14:40:04,863 - #40 (
+INFO  14:40:04,863 - #46 bodovi
+INFO  14:40:04,863 - #41 )
+INFO  14:40:04,863 - #36 ;
+INFO  14:40:04,864 - #18 goto
+INFO  14:40:04,864 - #46 labelaminus
+INFO  14:40:04,864 - #36 ;
+INFO  14:40:04,864 - #12 print
+INFO  14:40:04,864 - #40 (
+INFO  14:40:04,864 - #48 +
+INFO  14:40:04,864 - #41 )
+INFO  14:40:04,864 - #36 ;
+INFO  14:40:04,864 - #46 labelaminus
+INFO  14:40:04,864 - #37 :
+INFO  14:40:04,864 - #12 print
+INFO  14:40:04,865 - #40 (
+INFO  14:40:04,865 - #48 -
+INFO  14:40:04,865 - #41 )
+INFO  14:40:04,865 - #36 ;
+INFO  14:40:04,865 - #45 }
+INFO  14:40:04,865 - #45 }
+INFO  14:40:05,976 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclVar(
+    DeclVar(
+      DeclConst(
+        DeclConst(
+          DeclConst(
+            DeclVar(
+              NoDeclaration(
+              ) [NoDeclaration]
+              VarDeclaration(
+                Type(
+                 bool
+                ) [Type]
+               a
+                NoVarIdentDecl(
+                ) [NoVarIdentDecl]
+              ) [VarDeclaration]
+            ) [DeclVar]
+            NumConstDecl(
+              Type(
+               int
+              ) [Type]
+             nula
+             0
+              NoConstIdentDecl(
+              ) [NoConstIdentDecl]
+            ) [NumConstDecl]
+          ) [DeclConst]
+          NumConstDecl(
+            Type(
+             int
+            ) [Type]
+           jedan
+           1
+            NoConstIdentDecl(
+            ) [NoConstIdentDecl]
+          ) [NumConstDecl]
+        ) [DeclConst]
+        NumConstDecl(
+          Type(
+           int
+          ) [Type]
+         pet
+         5
+          NoConstIdentDecl(
+          ) [NoConstIdentDecl]
+        ) [NumConstDecl]
+      ) [DeclConst]
+      VarArrayDecl(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarIdentDecl(
+        ) [NoVarIdentDecl]
+      ) [VarArrayDecl]
+    ) [DeclVar]
+    VarArrayDecl(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarIdentDecl(
+      ) [NoVarIdentDecl]
+    ) [VarArrayDecl]
+  ) [DeclVar]
+  MethodDeclarations(
+    MethodDeclWithRetVoid(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarIdentDecl(
+            ) [NoVarIdentDecl]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         abc
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      Statements(
+        NoLabelSingleStmt(
+          DesignStmt(
+            DesignStmtAssignExpr(
+              DesignAssignStatement(
+                DesignIdentChain(
+                 bodovi
+                  NoIdentChainOrArrayRef(
+                  ) [NoIdentChainOrArrayRef]
+                ) [DesignIdentChain]
+                Assignop(
+                ) [Assignop]
+                ExprAddOpTermList(
+                  Term(
+                    FactorNumConst(
+                     0
+                    ) [FactorNumConst]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                ) [ExprAddOpTermList]
+              ) [DesignAssignStatement]
+            ) [DesignStmtAssignExpr]
+          ) [DesignStmt]
+        ) [NoLabelSingleStmt]
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              StmtList(
+                                                StmtList(
+                                                  StmtList(
+                                                    StmtList(
+                                                      StmtList(
+                                                        StmtList(
+                                                          StmtList(
+                                                            StmtList(
+                                                              StmtList(
+                                                                StmtList(
+                                                                  StmtList(
+                                                                    StmtList(
+                                                                      StmtList(
+                                                                        NoStmt(
+                                                                        ) [NoStmt]
+                                                                        NoLabelSingleStmt(
+                                                                          DesignStmt(
+                                                                            DesignStmtIncr(
+                                                                              DesignIdentChain(
+                                                                               abc
+                                                                                NoIdentChainOrArrayRef(
+                                                                                ) [NoIdentChainOrArrayRef]
+                                                                              ) [DesignIdentChain]
+                                                                            ) [DesignStmtIncr]
+                                                                          ) [DesignStmt]
+                                                                        ) [NoLabelSingleStmt]
+                                                                      ) [StmtList]
+                                                                      NoLabelSingleStmt(
+                                                                        DesignStmt(
+                                                                          DesignStmtIncr(
+                                                                            DesignIdentChain(
+                                                                             bodovi
+                                                                              NoIdentChainOrArrayRef(
+                                                                              ) [NoIdentChainOrArrayRef]
+                                                                            ) [DesignIdentChain]
+                                                                          ) [DesignStmtIncr]
+                                                                        ) [DesignStmt]
+                                                                      ) [NoLabelSingleStmt]
+                                                                    ) [StmtList]
+                                                                    NoLabelSingleStmt(
+                                                                      DesignStmt(
+                                                                        DesignStmtAssignExpr(
+                                                                          DesignAssignStatement(
+                                                                            DesignIdentChain(
+                                                                             bodovi
+                                                                              NoIdentChainOrArrayRef(
+                                                                              ) [NoIdentChainOrArrayRef]
+                                                                            ) [DesignIdentChain]
+                                                                            Assignop(
+                                                                            ) [Assignop]
+                                                                            ExprAddOpTermList(
+                                                                              Term(
+                                                                                FactorDesignNoCallNoActPars(
+                                                                                  DesignIdentChain(
+                                                                                   bodovi
+                                                                                    NoIdentChainOrArrayRef(
+                                                                                    ) [NoIdentChainOrArrayRef]
+                                                                                  ) [DesignIdentChain]
+                                                                                ) [FactorDesignNoCallNoActPars]
+                                                                                NoMulopFactor(
+                                                                                ) [NoMulopFactor]
+                                                                              ) [Term]
+                                                                              AddopTerms(
+                                                                                NoAddopTerm(
+                                                                                ) [NoAddopTerm]
+                                                                                Additon(
+                                                                                ) [Additon]
+                                                                                Term(
+                                                                                  FactorDesignNoCallNoActPars(
+                                                                                    DesignIdentChain(
+                                                                                     jedan
+                                                                                      NoIdentChainOrArrayRef(
+                                                                                      ) [NoIdentChainOrArrayRef]
+                                                                                    ) [DesignIdentChain]
+                                                                                  ) [FactorDesignNoCallNoActPars]
+                                                                                  NoMulopFactor(
+                                                                                  ) [NoMulopFactor]
+                                                                                ) [Term]
+                                                                              ) [AddopTerms]
+                                                                            ) [ExprAddOpTermList]
+                                                                          ) [DesignAssignStatement]
+                                                                        ) [DesignStmtAssignExpr]
+                                                                      ) [DesignStmt]
+                                                                    ) [NoLabelSingleStmt]
+                                                                  ) [StmtList]
+                                                                  NoLabelSingleStmt(
+                                                                    DesignStmt(
+                                                                      DesignStmtAssignExpr(
+                                                                        DesignAssignStatement(
+                                                                          DesignIdentChain(
+                                                                           bodovi
+                                                                            NoIdentChainOrArrayRef(
+                                                                            ) [NoIdentChainOrArrayRef]
+                                                                          ) [DesignIdentChain]
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          ExprAddOpTermList(
+                                                                            Term(
+                                                                              FactorDesignNoCallNoActPars(
+                                                                                DesignIdentChain(
+                                                                                 bodovi
+                                                                                  NoIdentChainOrArrayRef(
+                                                                                  ) [NoIdentChainOrArrayRef]
+                                                                                ) [DesignIdentChain]
+                                                                              ) [FactorDesignNoCallNoActPars]
+                                                                              MulopFactors(
+                                                                                Multiplication(
+                                                                                ) [Multiplication]
+                                                                                FactorDesignNoCallNoActPars(
+                                                                                  DesignIdentChain(
+                                                                                   pet
+                                                                                    NoIdentChainOrArrayRef(
+                                                                                    ) [NoIdentChainOrArrayRef]
+                                                                                  ) [DesignIdentChain]
+                                                                                ) [FactorDesignNoCallNoActPars]
+                                                                                NoMulopFactor(
+                                                                                ) [NoMulopFactor]
+                                                                              ) [MulopFactors]
+                                                                            ) [Term]
+                                                                            NoAddopTerm(
+                                                                            ) [NoAddopTerm]
+                                                                          ) [ExprAddOpTermList]
+                                                                        ) [DesignAssignStatement]
+                                                                      ) [DesignStmtAssignExpr]
+                                                                    ) [DesignStmt]
+                                                                  ) [NoLabelSingleStmt]
+                                                                ) [StmtList]
+                                                                NoLabelSingleStmt(
+                                                                  DesignStmt(
+                                                                    DesignStmtDecr(
+                                                                      DesignIdentChain(
+                                                                       bodovi
+                                                                        NoIdentChainOrArrayRef(
+                                                                        ) [NoIdentChainOrArrayRef]
+                                                                      ) [DesignIdentChain]
+                                                                    ) [DesignStmtDecr]
+                                                                  ) [DesignStmt]
+                                                                ) [NoLabelSingleStmt]
+                                                              ) [StmtList]
+                                                              NoLabelSingleStmt(
+                                                                PrintExprStmt(
+                                                                  ExprAddOpTermList(
+                                                                    Term(
+                                                                      FactorDesignNoCallNoActPars(
+                                                                        DesignIdentChain(
+                                                                         bodovi
+                                                                          NoIdentChainOrArrayRef(
+                                                                          ) [NoIdentChainOrArrayRef]
+                                                                        ) [DesignIdentChain]
+                                                                      ) [FactorDesignNoCallNoActPars]
+                                                                      NoMulopFactor(
+                                                                      ) [NoMulopFactor]
+                                                                    ) [Term]
+                                                                    NoAddopTerm(
+                                                                    ) [NoAddopTerm]
+                                                                  ) [ExprAddOpTermList]
+                                                                ) [PrintExprStmt]
+                                                              ) [NoLabelSingleStmt]
+                                                            ) [StmtList]
+                                                            NoLabelSingleStmt(
+                                                              DesignStmt(
+                                                                DesignStmtAssignExpr(
+                                                                  DesignAssignStatement(
+                                                                    DesignIdentChain(
+                                                                     niz
+                                                                      NoIdentChainOrArrayRef(
+                                                                      ) [NoIdentChainOrArrayRef]
+                                                                    ) [DesignIdentChain]
+                                                                    Assignop(
+                                                                    ) [Assignop]
+                                                                    ExprAddOpTermList(
+                                                                      Term(
+                                                                        FactorNewExpr(
+                                                                          Type(
+                                                                           int
+                                                                          ) [Type]
+                                                                          ExprAddOpTermList(
+                                                                            Term(
+                                                                              FactorNumConst(
+                                                                               3
+                                                                              ) [FactorNumConst]
+                                                                              NoMulopFactor(
+                                                                              ) [NoMulopFactor]
+                                                                            ) [Term]
+                                                                            NoAddopTerm(
+                                                                            ) [NoAddopTerm]
+                                                                          ) [ExprAddOpTermList]
+                                                                        ) [FactorNewExpr]
+                                                                        NoMulopFactor(
+                                                                        ) [NoMulopFactor]
+                                                                      ) [Term]
+                                                                      NoAddopTerm(
+                                                                      ) [NoAddopTerm]
+                                                                    ) [ExprAddOpTermList]
+                                                                  ) [DesignAssignStatement]
+                                                                ) [DesignStmtAssignExpr]
+                                                              ) [DesignStmt]
+                                                            ) [NoLabelSingleStmt]
+                                                          ) [StmtList]
+                                                          NoLabelSingleStmt(
+                                                            DesignStmt(
+                                                              DesignStmtAssignExpr(
+                                                                DesignAssignStatement(
+                                                                  DesignIdentChain(
+                                                                   niz
+                                                                    ArrayRef(
+                                                                      NoIdentChainOrArrayRef(
+                                                                      ) [NoIdentChainOrArrayRef]
+                                                                      ExprAddOpTermList(
+                                                                        Term(
+                                                                          FactorDesignNoCallNoActPars(
+                                                                            DesignIdentChain(
+                                                                             nula
+                                                                              NoIdentChainOrArrayRef(
+                                                                              ) [NoIdentChainOrArrayRef]
+                                                                            ) [DesignIdentChain]
+                                                                          ) [FactorDesignNoCallNoActPars]
+                                                                          NoMulopFactor(
+                                                                          ) [NoMulopFactor]
+                                                                        ) [Term]
+                                                                        NoAddopTerm(
+                                                                        ) [NoAddopTerm]
+                                                                      ) [ExprAddOpTermList]
+                                                                    ) [ArrayRef]
+                                                                  ) [DesignIdentChain]
+                                                                  Assignop(
+                                                                  ) [Assignop]
+                                                                  ExprAddOpTermList(
+                                                                    Term(
+                                                                      FactorDesignNoCallNoActPars(
+                                                                        DesignIdentChain(
+                                                                         jedan
+                                                                          NoIdentChainOrArrayRef(
+                                                                          ) [NoIdentChainOrArrayRef]
+                                                                        ) [DesignIdentChain]
+                                                                      ) [FactorDesignNoCallNoActPars]
+                                                                      NoMulopFactor(
+                                                                      ) [NoMulopFactor]
+                                                                    ) [Term]
+                                                                    NoAddopTerm(
+                                                                    ) [NoAddopTerm]
+                                                                  ) [ExprAddOpTermList]
+                                                                ) [DesignAssignStatement]
+                                                              ) [DesignStmtAssignExpr]
+                                                            ) [DesignStmt]
+                                                          ) [NoLabelSingleStmt]
+                                                        ) [StmtList]
+                                                        NoLabelSingleStmt(
+                                                          DesignStmt(
+                                                            DesignStmtAssignExpr(
+                                                              DesignAssignStatement(
+                                                                DesignIdentChain(
+                                                                 niz
+                                                                  ArrayRef(
+                                                                    NoIdentChainOrArrayRef(
+                                                                    ) [NoIdentChainOrArrayRef]
+                                                                    ExprAddOpTermList(
+                                                                      Term(
+                                                                        FactorNumConst(
+                                                                         1
+                                                                        ) [FactorNumConst]
+                                                                        NoMulopFactor(
+                                                                        ) [NoMulopFactor]
+                                                                      ) [Term]
+                                                                      NoAddopTerm(
+                                                                      ) [NoAddopTerm]
+                                                                    ) [ExprAddOpTermList]
+                                                                  ) [ArrayRef]
+                                                                ) [DesignIdentChain]
+                                                                Assignop(
+                                                                ) [Assignop]
+                                                                ExprAddOpTermList(
+                                                                  Term(
+                                                                    FactorNumConst(
+                                                                     2
+                                                                    ) [FactorNumConst]
+                                                                    NoMulopFactor(
+                                                                    ) [NoMulopFactor]
+                                                                  ) [Term]
+                                                                  NoAddopTerm(
+                                                                  ) [NoAddopTerm]
+                                                                ) [ExprAddOpTermList]
+                                                              ) [DesignAssignStatement]
+                                                            ) [DesignStmtAssignExpr]
+                                                          ) [DesignStmt]
+                                                        ) [NoLabelSingleStmt]
+                                                      ) [StmtList]
+                                                      NoLabelSingleStmt(
+                                                        DesignStmt(
+                                                          DesignStmtAssignExpr(
+                                                            DesignAssignStatement(
+                                                              DesignIdentChain(
+                                                               niz
+                                                                ArrayRef(
+                                                                  NoIdentChainOrArrayRef(
+                                                                  ) [NoIdentChainOrArrayRef]
+                                                                  ExprAddOpTermList(
+                                                                    Term(
+                                                                      FactorDesignNoCallNoActPars(
+                                                                        DesignIdentChain(
+                                                                         niz
+                                                                          ArrayRef(
+                                                                            NoIdentChainOrArrayRef(
+                                                                            ) [NoIdentChainOrArrayRef]
+                                                                            ExprAddOpTermList(
+                                                                              Term(
+                                                                                FactorDesignNoCallNoActPars(
+                                                                                  DesignIdentChain(
+                                                                                   jedan
+                                                                                    NoIdentChainOrArrayRef(
+                                                                                    ) [NoIdentChainOrArrayRef]
+                                                                                  ) [DesignIdentChain]
+                                                                                ) [FactorDesignNoCallNoActPars]
+                                                                                NoMulopFactor(
+                                                                                ) [NoMulopFactor]
+                                                                              ) [Term]
+                                                                              NoAddopTerm(
+                                                                              ) [NoAddopTerm]
+                                                                            ) [ExprAddOpTermList]
+                                                                          ) [ArrayRef]
+                                                                        ) [DesignIdentChain]
+                                                                      ) [FactorDesignNoCallNoActPars]
+                                                                      NoMulopFactor(
+                                                                      ) [NoMulopFactor]
+                                                                    ) [Term]
+                                                                    NoAddopTerm(
+                                                                    ) [NoAddopTerm]
+                                                                  ) [ExprAddOpTermList]
+                                                                ) [ArrayRef]
+                                                              ) [DesignIdentChain]
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              ExprAddOpTermList(
+                                                                Term(
+                                                                  FactorDesignNoCallNoActPars(
+                                                                    DesignIdentChain(
+                                                                     niz
+                                                                      ArrayRef(
+                                                                        NoIdentChainOrArrayRef(
+                                                                        ) [NoIdentChainOrArrayRef]
+                                                                        ExprAddOpTermList(
+                                                                          Term(
+                                                                            FactorDesignNoCallNoActPars(
+                                                                              DesignIdentChain(
+                                                                               niz
+                                                                                ArrayRef(
+                                                                                  NoIdentChainOrArrayRef(
+                                                                                  ) [NoIdentChainOrArrayRef]
+                                                                                  ExprAddOpTermList(
+                                                                                    Term(
+                                                                                      FactorNumConst(
+                                                                                       0
+                                                                                      ) [FactorNumConst]
+                                                                                      NoMulopFactor(
+                                                                                      ) [NoMulopFactor]
+                                                                                    ) [Term]
+                                                                                    NoAddopTerm(
+                                                                                    ) [NoAddopTerm]
+                                                                                  ) [ExprAddOpTermList]
+                                                                                ) [ArrayRef]
+                                                                              ) [DesignIdentChain]
+                                                                            ) [FactorDesignNoCallNoActPars]
+                                                                            NoMulopFactor(
+                                                                            ) [NoMulopFactor]
+                                                                          ) [Term]
+                                                                          NoAddopTerm(
+                                                                          ) [NoAddopTerm]
+                                                                        ) [ExprAddOpTermList]
+                                                                      ) [ArrayRef]
+                                                                    ) [DesignIdentChain]
+                                                                  ) [FactorDesignNoCallNoActPars]
+                                                                  MulopFactors(
+                                                                    Multiplication(
+                                                                    ) [Multiplication]
+                                                                    FactorNumConst(
+                                                                     3
+                                                                    ) [FactorNumConst]
+                                                                    NoMulopFactor(
+                                                                    ) [NoMulopFactor]
+                                                                  ) [MulopFactors]
+                                                                ) [Term]
+                                                                NoAddopTerm(
+                                                                ) [NoAddopTerm]
+                                                              ) [ExprAddOpTermList]
+                                                            ) [DesignAssignStatement]
+                                                          ) [DesignStmtAssignExpr]
+                                                        ) [DesignStmt]
+                                                      ) [NoLabelSingleStmt]
+                                                    ) [StmtList]
+                                                    NoLabelSingleStmt(
+                                                      DesignStmt(
+                                                        DesignStmtAssignExpr(
+                                                          DesignAssignStatement(
+                                                            DesignIdentChain(
+                                                             bodovi
+                                                              NoIdentChainOrArrayRef(
+                                                              ) [NoIdentChainOrArrayRef]
+                                                            ) [DesignIdentChain]
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            ExprAddOpTermList(
+                                                              Term(
+                                                                FactorDesignNoCallNoActPars(
+                                                                  DesignIdentChain(
+                                                                   niz
+                                                                    ArrayRef(
+                                                                      NoIdentChainOrArrayRef(
+                                                                      ) [NoIdentChainOrArrayRef]
+                                                                      ExprAddOpTermList(
+                                                                        Term(
+                                                                          FactorNumConst(
+                                                                           2
+                                                                          ) [FactorNumConst]
+                                                                          NoMulopFactor(
+                                                                          ) [NoMulopFactor]
+                                                                        ) [Term]
+                                                                        NoAddopTerm(
+                                                                        ) [NoAddopTerm]
+                                                                      ) [ExprAddOpTermList]
+                                                                    ) [ArrayRef]
+                                                                  ) [DesignIdentChain]
+                                                                ) [FactorDesignNoCallNoActPars]
+                                                                MulopFactors(
+                                                                  Division(
+                                                                  ) [Division]
+                                                                  FactorDesignNoCallNoActPars(
+                                                                    DesignIdentChain(
+                                                                     niz
+                                                                      ArrayRef(
+                                                                        NoIdentChainOrArrayRef(
+                                                                        ) [NoIdentChainOrArrayRef]
+                                                                        ExprAddOpTermList(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             0
+                                                                            ) [FactorNumConst]
+                                                                            NoMulopFactor(
+                                                                            ) [NoMulopFactor]
+                                                                          ) [Term]
+                                                                          NoAddopTerm(
+                                                                          ) [NoAddopTerm]
+                                                                        ) [ExprAddOpTermList]
+                                                                      ) [ArrayRef]
+                                                                    ) [DesignIdentChain]
+                                                                  ) [FactorDesignNoCallNoActPars]
+                                                                  NoMulopFactor(
+                                                                  ) [NoMulopFactor]
+                                                                ) [MulopFactors]
+                                                              ) [Term]
+                                                              NoAddopTerm(
+                                                              ) [NoAddopTerm]
+                                                            ) [ExprAddOpTermList]
+                                                          ) [DesignAssignStatement]
+                                                        ) [DesignStmtAssignExpr]
+                                                      ) [DesignStmt]
+                                                    ) [NoLabelSingleStmt]
+                                                  ) [StmtList]
+                                                  NoLabelSingleStmt(
+                                                    PrintExprStmt(
+                                                      ExprAddOpTermList(
+                                                        Term(
+                                                          FactorDesignNoCallNoActPars(
+                                                            DesignIdentChain(
+                                                             bodovi
+                                                              NoIdentChainOrArrayRef(
+                                                              ) [NoIdentChainOrArrayRef]
+                                                            ) [DesignIdentChain]
+                                                          ) [FactorDesignNoCallNoActPars]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprAddOpTermList]
+                                                    ) [PrintExprStmt]
+                                                  ) [NoLabelSingleStmt]
+                                                ) [StmtList]
+                                                NoLabelSingleStmt(
+                                                  PrintExprStmt(
+                                                    ExprAddOpTermList(
+                                                      Term(
+                                                        FactorDesignNoCallNoActPars(
+                                                          DesignIdentChain(
+                                                           niz
+                                                            ArrayRef(
+                                                              NoIdentChainOrArrayRef(
+                                                              ) [NoIdentChainOrArrayRef]
+                                                              ExprAddOpTermList(
+                                                                Term(
+                                                                  FactorNumConst(
+                                                                   2
+                                                                  ) [FactorNumConst]
+                                                                  NoMulopFactor(
+                                                                  ) [NoMulopFactor]
+                                                                ) [Term]
+                                                                NoAddopTerm(
+                                                                ) [NoAddopTerm]
+                                                              ) [ExprAddOpTermList]
+                                                            ) [ArrayRef]
+                                                          ) [DesignIdentChain]
+                                                        ) [FactorDesignNoCallNoActPars]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                      NoAddopTerm(
+                                                      ) [NoAddopTerm]
+                                                    ) [ExprAddOpTermList]
+                                                  ) [PrintExprStmt]
+                                                ) [NoLabelSingleStmt]
+                                              ) [StmtList]
+                                              NoLabelSingleStmt(
+                                                DesignStmt(
+                                                  DesignStmtAssignExpr(
+                                                    DesignAssignStatement(
+                                                      DesignIdentChain(
+                                                       nizch
+                                                        NoIdentChainOrArrayRef(
+                                                        ) [NoIdentChainOrArrayRef]
+                                                      ) [DesignIdentChain]
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      ExprAddOpTermList(
+                                                        Term(
+                                                          FactorNewExpr(
+                                                            Type(
+                                                             char
+                                                            ) [Type]
+                                                            ExprAddOpTermList(
+                                                              Term(
+                                                                FactorNumConst(
+                                                                 3
+                                                                ) [FactorNumConst]
+                                                                NoMulopFactor(
+                                                                ) [NoMulopFactor]
+                                                              ) [Term]
+                                                              NoAddopTerm(
+                                                              ) [NoAddopTerm]
+                                                            ) [ExprAddOpTermList]
+                                                          ) [FactorNewExpr]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprAddOpTermList]
+                                                    ) [DesignAssignStatement]
+                                                  ) [DesignStmtAssignExpr]
+                                                ) [DesignStmt]
+                                              ) [NoLabelSingleStmt]
+                                            ) [StmtList]
+                                            NoLabelSingleStmt(
+                                              DesignStmt(
+                                                DesignStmtAssignExpr(
+                                                  DesignAssignStatement(
+                                                    DesignIdentChain(
+                                                     nizch
+                                                      ArrayRef(
+                                                        NoIdentChainOrArrayRef(
+                                                        ) [NoIdentChainOrArrayRef]
+                                                        ExprAddOpTermList(
+                                                          Term(
+                                                            FactorNumConst(
+                                                             0
+                                                            ) [FactorNumConst]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [Term]
+                                                          NoAddopTerm(
+                                                          ) [NoAddopTerm]
+                                                        ) [ExprAddOpTermList]
+                                                      ) [ArrayRef]
+                                                    ) [DesignIdentChain]
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    ExprAddOpTermList(
+                                                      Term(
+                                                        FactorCharConst(
+                                                         a
+                                                        ) [FactorCharConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                      NoAddopTerm(
+                                                      ) [NoAddopTerm]
+                                                    ) [ExprAddOpTermList]
+                                                  ) [DesignAssignStatement]
+                                                ) [DesignStmtAssignExpr]
+                                              ) [DesignStmt]
+                                            ) [NoLabelSingleStmt]
+                                          ) [StmtList]
+                                          NoLabelSingleStmt(
+                                            DesignStmt(
+                                              DesignStmtAssignExpr(
+                                                DesignAssignStatement(
+                                                  DesignIdentChain(
+                                                   nizch
+                                                    ArrayRef(
+                                                      NoIdentChainOrArrayRef(
+                                                      ) [NoIdentChainOrArrayRef]
+                                                      ExprAddOpTermList(
+                                                        Term(
+                                                          FactorDesignNoCallNoActPars(
+                                                            DesignIdentChain(
+                                                             jedan
+                                                              NoIdentChainOrArrayRef(
+                                                              ) [NoIdentChainOrArrayRef]
+                                                            ) [DesignIdentChain]
+                                                          ) [FactorDesignNoCallNoActPars]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprAddOpTermList]
+                                                    ) [ArrayRef]
+                                                  ) [DesignIdentChain]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  ExprAddOpTermList(
+                                                    Term(
+                                                      FactorCharConst(
+                                                       b
+                                                      ) [FactorCharConst]
+                                                      NoMulopFactor(
+                                                      ) [NoMulopFactor]
+                                                    ) [Term]
+                                                    NoAddopTerm(
+                                                    ) [NoAddopTerm]
+                                                  ) [ExprAddOpTermList]
+                                                ) [DesignAssignStatement]
+                                              ) [DesignStmtAssignExpr]
+                                            ) [DesignStmt]
+                                          ) [NoLabelSingleStmt]
+                                        ) [StmtList]
+                                        NoLabelSingleStmt(
+                                          DesignStmt(
+                                            DesignStmtAssignExpr(
+                                              DesignAssignStatement(
+                                                DesignIdentChain(
+                                                 nizch
+                                                  ArrayRef(
+                                                    NoIdentChainOrArrayRef(
+                                                    ) [NoIdentChainOrArrayRef]
+                                                    ExprAddOpTermList(
+                                                      Term(
+                                                        FactorDesignNoCallNoActPars(
+                                                          DesignIdentChain(
+                                                           pet
+                                                            NoIdentChainOrArrayRef(
+                                                            ) [NoIdentChainOrArrayRef]
+                                                          ) [DesignIdentChain]
+                                                        ) [FactorDesignNoCallNoActPars]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                      AddopTerms(
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                        Substraction(
+                                                        ) [Substraction]
+                                                        Term(
+                                                          FactorNumConst(
+                                                           3
+                                                          ) [FactorNumConst]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                      ) [AddopTerms]
+                                                    ) [ExprAddOpTermList]
+                                                  ) [ArrayRef]
+                                                ) [DesignIdentChain]
+                                                Assignop(
+                                                ) [Assignop]
+                                                ExprAddOpTermList(
+                                                  Term(
+                                                    FactorCharConst(
+                                                     c
+                                                    ) [FactorCharConst]
+                                                    NoMulopFactor(
+                                                    ) [NoMulopFactor]
+                                                  ) [Term]
+                                                  NoAddopTerm(
+                                                  ) [NoAddopTerm]
+                                                ) [ExprAddOpTermList]
+                                              ) [DesignAssignStatement]
+                                            ) [DesignStmtAssignExpr]
+                                          ) [DesignStmt]
+                                        ) [NoLabelSingleStmt]
+                                      ) [StmtList]
+                                      NoLabelSingleStmt(
+                                        PrintExprStmt(
+                                          ExprAddOpTermList(
+                                            Term(
+                                              FactorDesignNoCallNoActPars(
+                                                DesignIdentChain(
+                                                 nizch
+                                                  ArrayRef(
+                                                    NoIdentChainOrArrayRef(
+                                                    ) [NoIdentChainOrArrayRef]
+                                                    ExprAddOpTermList(
+                                                      Term(
+                                                        FactorNumConst(
+                                                         1
+                                                        ) [FactorNumConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                      NoAddopTerm(
+                                                      ) [NoAddopTerm]
+                                                    ) [ExprAddOpTermList]
+                                                  ) [ArrayRef]
+                                                ) [DesignIdentChain]
+                                              ) [FactorDesignNoCallNoActPars]
+                                              NoMulopFactor(
+                                              ) [NoMulopFactor]
+                                            ) [Term]
+                                            NoAddopTerm(
+                                            ) [NoAddopTerm]
+                                          ) [ExprAddOpTermList]
+                                        ) [PrintExprStmt]
+                                      ) [NoLabelSingleStmt]
+                                    ) [StmtList]
+                                    NoLabelSingleStmt(
+                                      PrintExprStmt(
+                                        ExprAddOpTermList(
+                                          Term(
+                                            FactorDesignNoCallNoActPars(
+                                              DesignIdentChain(
+                                               nizch
+                                                ArrayRef(
+                                                  NoIdentChainOrArrayRef(
+                                                  ) [NoIdentChainOrArrayRef]
+                                                  ExprAddOpTermList(
+                                                    Term(
+                                                      FactorDesignNoCallNoActPars(
+                                                        DesignIdentChain(
+                                                         jedan
+                                                          NoIdentChainOrArrayRef(
+                                                          ) [NoIdentChainOrArrayRef]
+                                                        ) [DesignIdentChain]
+                                                      ) [FactorDesignNoCallNoActPars]
+                                                      MulopFactors(
+                                                        Multiplication(
+                                                        ) [Multiplication]
+                                                        FactorNumConst(
+                                                         2
+                                                        ) [FactorNumConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [MulopFactors]
+                                                    ) [Term]
+                                                    NoAddopTerm(
+                                                    ) [NoAddopTerm]
+                                                  ) [ExprAddOpTermList]
+                                                ) [ArrayRef]
+                                              ) [DesignIdentChain]
+                                            ) [FactorDesignNoCallNoActPars]
+                                            NoMulopFactor(
+                                            ) [NoMulopFactor]
+                                          ) [Term]
+                                          NoAddopTerm(
+                                          ) [NoAddopTerm]
+                                        ) [ExprAddOpTermList]
+                                      ) [PrintExprStmt]
+                                    ) [NoLabelSingleStmt]
+                                  ) [StmtList]
+                                  NoLabelSingleStmt(
+                                    DesignStmt(
+                                      DesignStmtAssignExpr(
+                                        DesignAssignStatement(
+                                          DesignIdentChain(
+                                           bodovi
+                                            NoIdentChainOrArrayRef(
+                                            ) [NoIdentChainOrArrayRef]
+                                          ) [DesignIdentChain]
+                                          Assignop(
+                                          ) [Assignop]
+                                          ExprAddOpTermList(
+                                            Term(
+                                              FactorDesignNoCallNoActPars(
+                                                DesignIdentChain(
+                                                 bodovi
+                                                  NoIdentChainOrArrayRef(
+                                                  ) [NoIdentChainOrArrayRef]
+                                                ) [DesignIdentChain]
+                                              ) [FactorDesignNoCallNoActPars]
+                                              NoMulopFactor(
+                                              ) [NoMulopFactor]
+                                            ) [Term]
+                                            AddopTerms(
+                                              AddopTerms(
+                                                NoAddopTerm(
+                                                ) [NoAddopTerm]
+                                                Additon(
+                                                ) [Additon]
+                                                Term(
+                                                  FactorExpr(
+                                                    ExprAddOpTermList(
+                                                      Term(
+                                                        FactorDesignNoCallNoActPars(
+                                                          DesignIdentChain(
+                                                           pet
+                                                            NoIdentChainOrArrayRef(
+                                                            ) [NoIdentChainOrArrayRef]
+                                                          ) [DesignIdentChain]
+                                                        ) [FactorDesignNoCallNoActPars]
+                                                        MulopFactors(
+                                                          Multiplication(
+                                                          ) [Multiplication]
+                                                          FactorDesignNoCallNoActPars(
+                                                            DesignIdentChain(
+                                                             jedan
+                                                              NoIdentChainOrArrayRef(
+                                                              ) [NoIdentChainOrArrayRef]
+                                                            ) [DesignIdentChain]
+                                                          ) [FactorDesignNoCallNoActPars]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [MulopFactors]
+                                                      ) [Term]
+                                                      AddopTerms(
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                        Substraction(
+                                                        ) [Substraction]
+                                                        Term(
+                                                          FactorNumConst(
+                                                           1
+                                                          ) [FactorNumConst]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                      ) [AddopTerms]
+                                                    ) [ExprAddOpTermList]
+                                                  ) [FactorExpr]
+                                                  MulopFactors(
+                                                    Multiplication(
+                                                    ) [Multiplication]
+                                                    FactorDesignNoCallNoActPars(
+                                                      DesignIdentChain(
+                                                       bodovi
+                                                        NoIdentChainOrArrayRef(
+                                                        ) [NoIdentChainOrArrayRef]
+                                                      ) [DesignIdentChain]
+                                                    ) [FactorDesignNoCallNoActPars]
+                                                    NoMulopFactor(
+                                                    ) [NoMulopFactor]
+                                                  ) [MulopFactors]
+                                                ) [Term]
+                                              ) [AddopTerms]
+                                              Substraction(
+                                              ) [Substraction]
+                                              Term(
+                                                FactorExpr(
+                                                  ExprAddOpTermList(
+                                                    Term(
+                                                      FactorNumConst(
+                                                       3
+                                                      ) [FactorNumConst]
+                                                      MulopFactors(
+                                                        Mod(
+                                                        ) [Mod]
+                                                        FactorNumConst(
+                                                         2
+                                                        ) [FactorNumConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [MulopFactors]
+                                                    ) [Term]
+                                                    AddopTerms(
+                                                      AddopTerms(
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                        Additon(
+                                                        ) [Additon]
+                                                        Term(
+                                                          FactorNumConst(
+                                                           3
+                                                          ) [FactorNumConst]
+                                                          MulopFactors(
+                                                            Multiplication(
+                                                            ) [Multiplication]
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [MulopFactors]
+                                                        ) [Term]
+                                                      ) [AddopTerms]
+                                                      Substraction(
+                                                      ) [Substraction]
+                                                      Term(
+                                                        FactorNumConst(
+                                                         3
+                                                        ) [FactorNumConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                    ) [AddopTerms]
+                                                  ) [ExprAddOpTermList]
+                                                ) [FactorExpr]
+                                                NoMulopFactor(
+                                                ) [NoMulopFactor]
+                                              ) [Term]
+                                            ) [AddopTerms]
+                                          ) [ExprAddOpTermList]
+                                        ) [DesignAssignStatement]
+                                      ) [DesignStmtAssignExpr]
+                                    ) [DesignStmt]
+                                  ) [NoLabelSingleStmt]
+                                ) [StmtList]
+                                NoLabelSingleStmt(
+                                  PrintExprStmt(
+                                    ExprAddOpTermList(
+                                      Term(
+                                        FactorDesignNoCallNoActPars(
+                                          DesignIdentChain(
+                                           bodovi
+                                            NoIdentChainOrArrayRef(
+                                            ) [NoIdentChainOrArrayRef]
+                                          ) [DesignIdentChain]
+                                        ) [FactorDesignNoCallNoActPars]
+                                        NoMulopFactor(
+                                        ) [NoMulopFactor]
+                                      ) [Term]
+                                      NoAddopTerm(
+                                      ) [NoAddopTerm]
+                                    ) [ExprAddOpTermList]
+                                  ) [PrintExprStmt]
+                                ) [NoLabelSingleStmt]
+                              ) [StmtList]
+                              NoLabelSingleStmt(
+                                ReadStmt(
+                                  DesignIdentChain(
+                                   bodovi
+                                    NoIdentChainOrArrayRef(
+                                    ) [NoIdentChainOrArrayRef]
+                                  ) [DesignIdentChain]
+                                ) [ReadStmt]
+                              ) [NoLabelSingleStmt]
+                            ) [StmtList]
+                            NoLabelSingleStmt(
+                              PrintExprStmt(
+                                ExprAddOpTermList(
+                                  Term(
+                                    FactorDesignNoCallNoActPars(
+                                      DesignIdentChain(
+                                       bodovi
+                                        NoIdentChainOrArrayRef(
+                                        ) [NoIdentChainOrArrayRef]
+                                      ) [DesignIdentChain]
+                                    ) [FactorDesignNoCallNoActPars]
+                                    NoMulopFactor(
+                                    ) [NoMulopFactor]
+                                  ) [Term]
+                                  NoAddopTerm(
+                                  ) [NoAddopTerm]
+                                ) [ExprAddOpTermList]
+                              ) [PrintExprStmt]
+                            ) [NoLabelSingleStmt]
+                          ) [StmtList]
+                          NoLabelSingleStmt(
+                            DesignStmt(
+                              DesignStmtIncr(
+                                DesignIdentChain(
+                                 bodovi
+                                  NoIdentChainOrArrayRef(
+                                  ) [NoIdentChainOrArrayRef]
+                                ) [DesignIdentChain]
+                              ) [DesignStmtIncr]
+                            ) [DesignStmt]
+                          ) [NoLabelSingleStmt]
+                        ) [StmtList]
+                        NoLabelSingleStmt(
+                          GotoStmt(
+                            Label(
+                             labela1
+                            ) [Label]
+                          ) [GotoStmt]
+                        ) [NoLabelSingleStmt]
+                      ) [StmtList]
+                      NoLabelSingleStmt(
+                        DesignStmt(
+                          DesignStmtAssignExpr(
+                            DesignAssignStatement(
+                              DesignIdentChain(
+                               bodovi
+                                NoIdentChainOrArrayRef(
+                                ) [NoIdentChainOrArrayRef]
+                              ) [DesignIdentChain]
+                              Assignop(
+                              ) [Assignop]
+                              ExprAddOpTermList(
+                                Term(
+                                  FactorDesignNoCallNoActPars(
+                                    DesignIdentChain(
+                                     bodovi
+                                      NoIdentChainOrArrayRef(
+                                      ) [NoIdentChainOrArrayRef]
+                                    ) [DesignIdentChain]
+                                  ) [FactorDesignNoCallNoActPars]
+                                  MulopFactors(
+                                    Multiplication(
+                                    ) [Multiplication]
+                                    FactorNumConst(
+                                     2
+                                    ) [FactorNumConst]
+                                    NoMulopFactor(
+                                    ) [NoMulopFactor]
+                                  ) [MulopFactors]
+                                ) [Term]
+                                NoAddopTerm(
+                                ) [NoAddopTerm]
+                              ) [ExprAddOpTermList]
+                            ) [DesignAssignStatement]
+                          ) [DesignStmtAssignExpr]
+                        ) [DesignStmt]
+                      ) [NoLabelSingleStmt]
+                    ) [StmtList]
+                    NoLabelSingleStmt(
+                      DesignStmt(
+                        DesignStmtDecr(
+                          DesignIdentChain(
+                           bodovi
+                            NoIdentChainOrArrayRef(
+                            ) [NoIdentChainOrArrayRef]
+                          ) [DesignIdentChain]
+                        ) [DesignStmtDecr]
+                      ) [DesignStmt]
+                    ) [NoLabelSingleStmt]
+                  ) [StmtList]
+                  SingleStmt(
+                    Label(
+                     labela1
+                    ) [Label]
+                    DesignStmt(
+                      DesignStmtAssignExpr(
+                        DesignAssignStatement(
+                          DesignIdentChain(
+                           bodovi
+                            NoIdentChainOrArrayRef(
+                            ) [NoIdentChainOrArrayRef]
+                          ) [DesignIdentChain]
+                          Assignop(
+                          ) [Assignop]
+                          ExprAddOpTermList(
+                            Term(
+                              FactorDesignNoCallNoActPars(
+                                DesignIdentChain(
+                                 bodovi
+                                  NoIdentChainOrArrayRef(
+                                  ) [NoIdentChainOrArrayRef]
+                                ) [DesignIdentChain]
+                              ) [FactorDesignNoCallNoActPars]
+                              NoMulopFactor(
+                              ) [NoMulopFactor]
+                            ) [Term]
+                            AddopTerms(
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                              Additon(
+                              ) [Additon]
+                              Term(
+                                FactorNumConst(
+                                 3
+                                ) [FactorNumConst]
+                                NoMulopFactor(
+                                ) [NoMulopFactor]
+                              ) [Term]
+                            ) [AddopTerms]
+                          ) [ExprAddOpTermList]
+                        ) [DesignAssignStatement]
+                      ) [DesignStmtAssignExpr]
+                    ) [DesignStmt]
+                  ) [SingleStmt]
+                ) [StmtList]
+                NoLabelSingleStmt(
+                  PrintExprStmt(
+                    ExprAddOpTermList(
+                      Term(
+                        FactorDesignNoCallNoActPars(
+                          DesignIdentChain(
+                           bodovi
+                            NoIdentChainOrArrayRef(
+                            ) [NoIdentChainOrArrayRef]
+                          ) [DesignIdentChain]
+                        ) [FactorDesignNoCallNoActPars]
+                        NoMulopFactor(
+                        ) [NoMulopFactor]
+                      ) [Term]
+                      NoAddopTerm(
+                      ) [NoAddopTerm]
+                    ) [ExprAddOpTermList]
+                  ) [PrintExprStmt]
+                ) [NoLabelSingleStmt]
+              ) [StmtList]
+              NoLabelSingleStmt(
+                GotoStmt(
+                  Label(
+                   labelaminus
+                  ) [Label]
+                ) [GotoStmt]
+              ) [NoLabelSingleStmt]
+            ) [StmtList]
+            NoLabelSingleStmt(
+              PrintExprStmt(
+                ExprAddOpTermList(
+                  Term(
+                    FactorCharConst(
+                     +
+                    ) [FactorCharConst]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                ) [ExprAddOpTermList]
+              ) [PrintExprStmt]
+            ) [NoLabelSingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            Label(
+             labelaminus
+            ) [Label]
+            PrintExprStmt(
+              ExprAddOpTermList(
+                Term(
+                  FactorCharConst(
+                   -
+                  ) [FactorCharConst]
+                  NoMulopFactor(
+                  ) [NoMulopFactor]
+                ) [Term]
+                NoAddopTerm(
+                ) [NoAddopTerm]
+              ) [ExprAddOpTermList]
+            ) [PrintExprStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+      ) [Statements]
+    ) [MethodDeclWithRetVoid]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  14:40:05,983 - ===================================
+INFO  14:40:15,076 - Obradjuje se funkcija main na liniji 15

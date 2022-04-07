@@ -1,0 +1,595 @@
+INFO  23:31:53,736 - Compiling source file: D:\Cetvrta godina\Programski Prevodioci\projekat_v2\workspace\MJCompiler\test\program.mj
+INFO  23:31:53,812 - #2 program
+INFO  23:31:53,812 - #41 test301
+INFO  23:31:53,812 - #41 bool
+INFO  23:31:53,813 - #41 a
+INFO  23:31:53,814 - #31 ;
+INFO  23:31:53,814 - #7 const
+INFO  23:31:53,815 - #41 int
+INFO  23:31:53,815 - #41 nula
+INFO  23:31:53,815 - #28 =
+INFO  23:31:53,815 - #42 0
+INFO  23:31:53,815 - #31 ;
+INFO  23:31:53,816 - #7 const
+INFO  23:31:53,816 - #41 int
+INFO  23:31:53,816 - #41 jedan
+INFO  23:31:53,816 - #28 =
+INFO  23:31:53,816 - #42 1
+INFO  23:31:53,816 - #31 ;
+INFO  23:31:53,817 - #7 const
+INFO  23:31:53,817 - #41 int
+INFO  23:31:53,817 - #41 pet
+INFO  23:31:53,818 - #28 =
+INFO  23:31:53,818 - #42 5
+INFO  23:31:53,818 - #31 ;
+INFO  23:31:53,818 - #41 int
+INFO  23:31:53,818 - #41 b
+INFO  23:31:53,818 - #31 ;
+INFO  23:31:53,818 - #41 int
+INFO  23:31:53,818 - #41 niz
+INFO  23:31:53,818 - #37 [
+INFO  23:31:53,818 - #38 ]
+INFO  23:31:53,819 - #31 ;
+INFO  23:31:53,819 - #41 char
+INFO  23:31:53,819 - #41 nizch
+INFO  23:31:53,819 - #37 [
+INFO  23:31:53,819 - #38 ]
+INFO  23:31:53,819 - #31 ;
+INFO  23:31:53,819 - #39 {
+INFO  23:31:53,820 - #15 void
+INFO  23:31:53,820 - #41 main
+INFO  23:31:53,820 - #35 (
+INFO  23:31:53,821 - #36 )
+INFO  23:31:53,821 - #41 int
+INFO  23:31:53,822 - #41 bodovi
+INFO  23:31:53,822 - #31 ;
+INFO  23:31:53,822 - #41 int
+INFO  23:31:53,822 - #41 c
+INFO  23:31:53,822 - #31 ;
+INFO  23:31:53,823 - #39 {
+INFO  23:31:53,823 - #41 c
+INFO  23:31:53,823 - #28 =
+INFO  23:31:53,825 - #46 -
+INFO  23:31:53,825 - #35 (
+INFO  23:31:53,825 - #42 2
+INFO  23:31:53,825 - #45 +
+INFO  23:31:53,827 - #42 1
+INFO  23:31:53,827 - #36 )
+INFO  23:31:53,828 - #31 ;
+INFO  23:31:53,828 - #12 print
+INFO  23:31:53,829 - #35 (
+INFO  23:31:53,829 - #41 c
+INFO  23:31:53,829 - #36 )
+INFO  23:31:53,829 - #31 ;
+INFO  23:31:53,829 - #41 niz
+INFO  23:31:53,830 - #28 =
+INFO  23:31:53,830 - #11 new
+INFO  23:31:53,830 - #41 int
+INFO  23:31:53,830 - #37 [
+INFO  23:31:53,830 - #42 3
+INFO  23:31:53,830 - #38 ]
+INFO  23:31:53,830 - #31 ;
+INFO  23:31:53,830 - #41 bodovi
+INFO  23:31:53,831 - #28 =
+INFO  23:31:53,831 - #42 5
+INFO  23:31:53,831 - #31 ;
+INFO  23:31:53,831 - #41 niz
+INFO  23:31:53,831 - #37 [
+INFO  23:31:53,831 - #41 c
+INFO  23:31:53,831 - #45 +
+INFO  23:31:53,831 - #42 1
+INFO  23:31:53,831 - #38 ]
+INFO  23:31:53,832 - #28 =
+INFO  23:31:53,832 - #41 bodovi
+INFO  23:31:53,832 - #45 +
+INFO  23:31:53,832 - #42 4
+INFO  23:31:53,832 - #47 *
+INFO  23:31:53,833 - #42 5
+INFO  23:31:53,833 - #31 ;
+INFO  23:31:53,833 - #18 goto
+INFO  23:31:53,833 - #41 labela
+INFO  23:31:53,833 - #31 ;
+INFO  23:31:53,835 - #12 print
+INFO  23:31:53,835 - #35 (
+INFO  23:31:53,835 - #42 2
+INFO  23:31:53,835 - #36 )
+INFO  23:31:53,836 - #31 ;
+INFO  23:31:53,836 - #41 bodovi
+INFO  23:31:53,836 - #28 =
+INFO  23:31:53,836 - #42 6
+INFO  23:31:53,836 - #31 ;
+INFO  23:31:53,836 - #12 print
+INFO  23:31:53,836 - #35 (
+INFO  23:31:53,837 - #41 bodovi
+INFO  23:31:53,837 - #36 )
+INFO  23:31:53,837 - #31 ;
+INFO  23:31:53,837 - #41 labela
+INFO  23:31:53,837 - #32 :
+INFO  23:31:53,838 - #12 print
+INFO  23:31:53,838 - #35 (
+INFO  23:31:53,838 - #41 niz
+INFO  23:31:53,838 - #37 [
+INFO  23:31:53,838 - #42 0
+INFO  23:31:53,838 - #38 ]
+INFO  23:31:53,839 - #36 )
+INFO  23:31:53,839 - #31 ;
+INFO  23:31:53,839 - #40 }
+INFO  23:31:53,839 - #40 }
+INFO  23:31:53,854 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclVar(
+    DeclVar(
+      DeclVar(
+        DeclConst(
+          DeclConst(
+            DeclConst(
+              DeclVar(
+                NoDeclaration(
+                ) [NoDeclaration]
+                VarDeclaration(
+                  Type(
+                   bool
+                  ) [Type]
+                 a
+                  NoVarIdentDecl(
+                  ) [NoVarIdentDecl]
+                ) [VarDeclaration]
+              ) [DeclVar]
+              NumConstDecl(
+                Type(
+                 int
+                ) [Type]
+               nula
+               0
+                NoConstIdentDecl(
+                ) [NoConstIdentDecl]
+              ) [NumConstDecl]
+            ) [DeclConst]
+            NumConstDecl(
+              Type(
+               int
+              ) [Type]
+             jedan
+             1
+              NoConstIdentDecl(
+              ) [NoConstIdentDecl]
+            ) [NumConstDecl]
+          ) [DeclConst]
+          NumConstDecl(
+            Type(
+             int
+            ) [Type]
+           pet
+           5
+            NoConstIdentDecl(
+            ) [NoConstIdentDecl]
+          ) [NumConstDecl]
+        ) [DeclConst]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         b
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [DeclVar]
+      VarArrayDecl(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarIdentDecl(
+        ) [NoVarIdentDecl]
+      ) [VarArrayDecl]
+    ) [DeclVar]
+    VarArrayDecl(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarIdentDecl(
+      ) [NoVarIdentDecl]
+    ) [VarArrayDecl]
+  ) [DeclVar]
+  MethodDeclarations(
+    MethodDeclWithRetVoid(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarIdentDecl(
+            ) [NoVarIdentDecl]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         c
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      Statements(
+        NoLabelSingleStmt(
+          DesignStmt(
+            DesignStmtAssignExpr(
+              DesignAssignStatement(
+                Designator(
+                  DesignName(
+                   c
+                  ) [DesignName]
+                  NoArrayAccess(
+                  ) [NoArrayAccess]
+                ) [Designator]
+                Assignop(
+                ) [Assignop]
+                SingleTerm(
+                  TermNegative(
+                   -
+                    Term(
+                      FactorExpr(
+                        AddOpExpression(
+                          SingleTerm(
+                            TermPositive(
+                              Term(
+                                FactorNumConst(
+                                 2
+                                ) [FactorNumConst]
+                                NoMulopFactor(
+                                ) [NoMulopFactor]
+                              ) [Term]
+                            ) [TermPositive]
+                          ) [SingleTerm]
+                          Additon(
+                           +
+                          ) [Additon]
+                          Term(
+                            FactorNumConst(
+                             1
+                            ) [FactorNumConst]
+                            NoMulopFactor(
+                            ) [NoMulopFactor]
+                          ) [Term]
+                        ) [AddOpExpression]
+                      ) [FactorExpr]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                  ) [TermNegative]
+                ) [SingleTerm]
+              ) [DesignAssignStatement]
+            ) [DesignStmtAssignExpr]
+          ) [DesignStmt]
+        ) [NoLabelSingleStmt]
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          NoStmt(
+                          ) [NoStmt]
+                          NoLabelSingleStmt(
+                            PrintExprStmt(
+                              SingleTerm(
+                                TermPositive(
+                                  Term(
+                                    FactorDesignator(
+                                      Designator(
+                                        DesignName(
+                                         c
+                                        ) [DesignName]
+                                        NoArrayAccess(
+                                        ) [NoArrayAccess]
+                                      ) [Designator]
+                                    ) [FactorDesignator]
+                                    NoMulopFactor(
+                                    ) [NoMulopFactor]
+                                  ) [Term]
+                                ) [TermPositive]
+                              ) [SingleTerm]
+                            ) [PrintExprStmt]
+                          ) [NoLabelSingleStmt]
+                        ) [StmtList]
+                        NoLabelSingleStmt(
+                          DesignStmt(
+                            DesignStmtAssignExpr(
+                              DesignAssignStatement(
+                                Designator(
+                                  DesignName(
+                                   niz
+                                  ) [DesignName]
+                                  NoArrayAccess(
+                                  ) [NoArrayAccess]
+                                ) [Designator]
+                                Assignop(
+                                ) [Assignop]
+                                SingleTerm(
+                                  TermPositive(
+                                    Term(
+                                      FactorNewExpr(
+                                        Type(
+                                         int
+                                        ) [Type]
+                                        SingleTerm(
+                                          TermPositive(
+                                            Term(
+                                              FactorNumConst(
+                                               3
+                                              ) [FactorNumConst]
+                                              NoMulopFactor(
+                                              ) [NoMulopFactor]
+                                            ) [Term]
+                                          ) [TermPositive]
+                                        ) [SingleTerm]
+                                      ) [FactorNewExpr]
+                                      NoMulopFactor(
+                                      ) [NoMulopFactor]
+                                    ) [Term]
+                                  ) [TermPositive]
+                                ) [SingleTerm]
+                              ) [DesignAssignStatement]
+                            ) [DesignStmtAssignExpr]
+                          ) [DesignStmt]
+                        ) [NoLabelSingleStmt]
+                      ) [StmtList]
+                      NoLabelSingleStmt(
+                        DesignStmt(
+                          DesignStmtAssignExpr(
+                            DesignAssignStatement(
+                              Designator(
+                                DesignName(
+                                 bodovi
+                                ) [DesignName]
+                                NoArrayAccess(
+                                ) [NoArrayAccess]
+                              ) [Designator]
+                              Assignop(
+                              ) [Assignop]
+                              SingleTerm(
+                                TermPositive(
+                                  Term(
+                                    FactorNumConst(
+                                     5
+                                    ) [FactorNumConst]
+                                    NoMulopFactor(
+                                    ) [NoMulopFactor]
+                                  ) [Term]
+                                ) [TermPositive]
+                              ) [SingleTerm]
+                            ) [DesignAssignStatement]
+                          ) [DesignStmtAssignExpr]
+                        ) [DesignStmt]
+                      ) [NoLabelSingleStmt]
+                    ) [StmtList]
+                    NoLabelSingleStmt(
+                      DesignStmt(
+                        DesignStmtAssignExpr(
+                          DesignAssignStatement(
+                            Designator(
+                              DesignName(
+                               niz
+                              ) [DesignName]
+                              ArrayAcc(
+                                AddOpExpression(
+                                  SingleTerm(
+                                    TermPositive(
+                                      Term(
+                                        FactorDesignator(
+                                          Designator(
+                                            DesignName(
+                                             c
+                                            ) [DesignName]
+                                            NoArrayAccess(
+                                            ) [NoArrayAccess]
+                                          ) [Designator]
+                                        ) [FactorDesignator]
+                                        NoMulopFactor(
+                                        ) [NoMulopFactor]
+                                      ) [Term]
+                                    ) [TermPositive]
+                                  ) [SingleTerm]
+                                  Additon(
+                                   +
+                                  ) [Additon]
+                                  Term(
+                                    FactorNumConst(
+                                     1
+                                    ) [FactorNumConst]
+                                    NoMulopFactor(
+                                    ) [NoMulopFactor]
+                                  ) [Term]
+                                ) [AddOpExpression]
+                              ) [ArrayAcc]
+                            ) [Designator]
+                            Assignop(
+                            ) [Assignop]
+                            AddOpExpression(
+                              SingleTerm(
+                                TermPositive(
+                                  Term(
+                                    FactorDesignator(
+                                      Designator(
+                                        DesignName(
+                                         bodovi
+                                        ) [DesignName]
+                                        NoArrayAccess(
+                                        ) [NoArrayAccess]
+                                      ) [Designator]
+                                    ) [FactorDesignator]
+                                    NoMulopFactor(
+                                    ) [NoMulopFactor]
+                                  ) [Term]
+                                ) [TermPositive]
+                              ) [SingleTerm]
+                              Additon(
+                               +
+                              ) [Additon]
+                              Term(
+                                FactorNumConst(
+                                 4
+                                ) [FactorNumConst]
+                                MulopFactors(
+                                  Multiplication(
+                                   *
+                                  ) [Multiplication]
+                                  FactorNumConst(
+                                   5
+                                  ) [FactorNumConst]
+                                  NoMulopFactor(
+                                  ) [NoMulopFactor]
+                                ) [MulopFactors]
+                              ) [Term]
+                            ) [AddOpExpression]
+                          ) [DesignAssignStatement]
+                        ) [DesignStmtAssignExpr]
+                      ) [DesignStmt]
+                    ) [NoLabelSingleStmt]
+                  ) [StmtList]
+                  NoLabelSingleStmt(
+                    GotoStmt(
+                      Label(
+                       labela
+                      ) [Label]
+                    ) [GotoStmt]
+                  ) [NoLabelSingleStmt]
+                ) [StmtList]
+                NoLabelSingleStmt(
+                  PrintExprStmt(
+                    SingleTerm(
+                      TermPositive(
+                        Term(
+                          FactorNumConst(
+                           2
+                          ) [FactorNumConst]
+                          NoMulopFactor(
+                          ) [NoMulopFactor]
+                        ) [Term]
+                      ) [TermPositive]
+                    ) [SingleTerm]
+                  ) [PrintExprStmt]
+                ) [NoLabelSingleStmt]
+              ) [StmtList]
+              NoLabelSingleStmt(
+                DesignStmt(
+                  DesignStmtAssignExpr(
+                    DesignAssignStatement(
+                      Designator(
+                        DesignName(
+                         bodovi
+                        ) [DesignName]
+                        NoArrayAccess(
+                        ) [NoArrayAccess]
+                      ) [Designator]
+                      Assignop(
+                      ) [Assignop]
+                      SingleTerm(
+                        TermPositive(
+                          Term(
+                            FactorNumConst(
+                             6
+                            ) [FactorNumConst]
+                            NoMulopFactor(
+                            ) [NoMulopFactor]
+                          ) [Term]
+                        ) [TermPositive]
+                      ) [SingleTerm]
+                    ) [DesignAssignStatement]
+                  ) [DesignStmtAssignExpr]
+                ) [DesignStmt]
+              ) [NoLabelSingleStmt]
+            ) [StmtList]
+            NoLabelSingleStmt(
+              PrintExprStmt(
+                SingleTerm(
+                  TermPositive(
+                    Term(
+                      FactorDesignator(
+                        Designator(
+                          DesignName(
+                           bodovi
+                          ) [DesignName]
+                          NoArrayAccess(
+                          ) [NoArrayAccess]
+                        ) [Designator]
+                      ) [FactorDesignator]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                  ) [TermPositive]
+                ) [SingleTerm]
+              ) [PrintExprStmt]
+            ) [NoLabelSingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            LabelDecl(
+              Label(
+               labela
+              ) [Label]
+            ) [LabelDecl]
+            PrintExprStmt(
+              SingleTerm(
+                TermPositive(
+                  Term(
+                    FactorDesignator(
+                      Designator(
+                        DesignName(
+                         niz
+                        ) [DesignName]
+                        ArrayAcc(
+                          SingleTerm(
+                            TermPositive(
+                              Term(
+                                FactorNumConst(
+                                 0
+                                ) [FactorNumConst]
+                                NoMulopFactor(
+                                ) [NoMulopFactor]
+                              ) [Term]
+                            ) [TermPositive]
+                          ) [SingleTerm]
+                        ) [ArrayAcc]
+                      ) [Designator]
+                    ) [FactorDesignator]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                ) [TermPositive]
+              ) [SingleTerm]
+            ) [PrintExprStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+      ) [Statements]
+    ) [MethodDeclWithRetVoid]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:31:53,855 - ===================================
+INFO  23:31:53,858 - Obradjuje se funkcija main na liniji 15
+INFO  23:31:53,858 - Pretraga na 19(c) nadjeno Var c: int, 1, 1
+INFO  23:31:53,859 - Pretraga na 20(c) nadjeno Var c: int, 1, 1
+INFO  23:31:53,859 - Pretraga na 21(niz) nadjeno Var niz: Arr of int, 2, 0
+INFO  23:31:53,859 - Pretraga na 22(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  23:31:53,859 - Pretraga na 23(niz) nadjeno Var niz: Arr of int, 2, 0
+INFO  23:31:53,859 - Pretraga na 23(c) nadjeno Var c: int, 1, 1
+INFO  23:31:53,860 - Pretraga na 23(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  23:31:53,860 - Pretraga na 26(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  23:31:53,860 - Pretraga na 27(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  23:31:53,860 - Pretraga na 29(niz) nadjeno Var niz: Arr of int, 2, 0
+INFO  23:31:53,861 - Sintaksna i semanticka analiza je uspesno zavrsena!

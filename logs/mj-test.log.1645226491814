@@ -1,0 +1,1679 @@
+INFO  00:20:37,670 - Compiling source file: D:\Cetvrta godina\Programski Prevodioci\projekat_v2\workspace\MJCompiler\test\program.mj
+INFO  00:20:37,754 - #2 program
+INFO  00:20:37,754 - #41 test301
+INFO  00:20:37,755 - #7 const
+INFO  00:20:37,756 - #41 int
+INFO  00:20:37,756 - #41 nula
+INFO  00:20:37,757 - #28 =
+INFO  00:20:37,758 - #42 0
+INFO  00:20:37,758 - #31 ;
+INFO  00:20:37,759 - #7 const
+INFO  00:20:37,759 - #41 int
+INFO  00:20:37,759 - #41 jedan
+INFO  00:20:37,759 - #28 =
+INFO  00:20:37,759 - #42 1
+INFO  00:20:37,759 - #31 ;
+INFO  00:20:37,759 - #7 const
+INFO  00:20:37,760 - #41 int
+INFO  00:20:37,760 - #41 pet
+INFO  00:20:37,760 - #28 =
+INFO  00:20:37,760 - #42 5
+INFO  00:20:37,760 - #31 ;
+INFO  00:20:37,761 - #41 int
+INFO  00:20:37,761 - #41 niz
+INFO  00:20:37,761 - #37 [
+INFO  00:20:37,761 - #38 ]
+INFO  00:20:37,761 - #31 ;
+INFO  00:20:37,762 - #41 char
+INFO  00:20:37,763 - #41 nizch
+INFO  00:20:37,763 - #37 [
+INFO  00:20:37,763 - #38 ]
+INFO  00:20:37,763 - #31 ;
+INFO  00:20:37,763 - #39 {
+INFO  00:20:37,763 - #15 void
+INFO  00:20:37,763 - #41 main
+INFO  00:20:37,763 - #35 (
+INFO  00:20:37,765 - #36 )
+INFO  00:20:37,765 - #41 int
+INFO  00:20:37,766 - #41 bodovi
+INFO  00:20:37,766 - #31 ;
+INFO  00:20:37,767 - #39 {
+INFO  00:20:37,767 - #41 bodovi
+INFO  00:20:37,767 - #28 =
+INFO  00:20:37,770 - #42 0
+INFO  00:20:37,771 - #31 ;
+INFO  00:20:37,774 - #41 bodovi
+INFO  00:20:37,776 - #29 ++
+INFO  00:20:37,776 - #31 ;
+INFO  00:20:37,776 - #41 bodovi
+INFO  00:20:37,776 - #28 =
+INFO  00:20:37,776 - #41 bodovi
+INFO  00:20:37,776 - #45 +
+INFO  00:20:37,777 - #41 jedan
+INFO  00:20:37,777 - #31 ;
+INFO  00:20:37,777 - #41 bodovi
+INFO  00:20:37,778 - #28 =
+INFO  00:20:37,778 - #41 bodovi
+INFO  00:20:37,778 - #47 *
+INFO  00:20:37,778 - #41 pet
+INFO  00:20:37,778 - #31 ;
+INFO  00:20:37,779 - #41 bodovi
+INFO  00:20:37,779 - #30 --
+INFO  00:20:37,779 - #31 ;
+INFO  00:20:37,779 - #12 print
+INFO  00:20:37,779 - #35 (
+INFO  00:20:37,780 - #41 bodovi
+INFO  00:20:37,780 - #36 )
+INFO  00:20:37,780 - #31 ;
+INFO  00:20:37,780 - #41 niz
+INFO  00:20:37,780 - #28 =
+INFO  00:20:37,782 - #11 new
+INFO  00:20:37,782 - #41 int
+INFO  00:20:37,782 - #37 [
+INFO  00:20:37,783 - #42 3
+INFO  00:20:37,783 - #38 ]
+INFO  00:20:37,783 - #31 ;
+INFO  00:20:37,783 - #41 niz
+INFO  00:20:37,784 - #37 [
+INFO  00:20:37,784 - #41 nula
+INFO  00:20:37,784 - #38 ]
+INFO  00:20:37,784 - #28 =
+INFO  00:20:37,784 - #41 jedan
+INFO  00:20:37,784 - #31 ;
+INFO  00:20:37,785 - #41 niz
+INFO  00:20:37,785 - #37 [
+INFO  00:20:37,785 - #42 1
+INFO  00:20:37,785 - #38 ]
+INFO  00:20:37,785 - #28 =
+INFO  00:20:37,786 - #42 2
+INFO  00:20:37,786 - #31 ;
+INFO  00:20:37,786 - #41 niz
+INFO  00:20:37,786 - #37 [
+INFO  00:20:37,786 - #41 niz
+INFO  00:20:37,786 - #37 [
+INFO  00:20:37,787 - #41 jedan
+INFO  00:20:37,787 - #38 ]
+INFO  00:20:37,787 - #38 ]
+INFO  00:20:37,787 - #28 =
+INFO  00:20:37,787 - #41 niz
+INFO  00:20:37,787 - #37 [
+INFO  00:20:37,787 - #41 niz
+INFO  00:20:37,788 - #37 [
+INFO  00:20:37,788 - #42 0
+INFO  00:20:37,788 - #38 ]
+INFO  00:20:37,788 - #38 ]
+INFO  00:20:37,788 - #47 *
+INFO  00:20:37,788 - #42 3
+INFO  00:20:37,788 - #31 ;
+INFO  00:20:37,788 - #41 bodovi
+INFO  00:20:37,789 - #28 =
+INFO  00:20:37,789 - #41 niz
+INFO  00:20:37,789 - #37 [
+INFO  00:20:37,789 - #42 2
+INFO  00:20:37,789 - #38 ]
+INFO  00:20:37,789 - #48 /
+INFO  00:20:37,790 - #41 niz
+INFO  00:20:37,790 - #37 [
+INFO  00:20:37,790 - #42 0
+INFO  00:20:37,790 - #38 ]
+INFO  00:20:37,790 - #31 ;
+INFO  00:20:37,791 - #12 print
+INFO  00:20:37,791 - #35 (
+INFO  00:20:37,791 - #41 bodovi
+INFO  00:20:37,791 - #36 )
+INFO  00:20:37,791 - #31 ;
+INFO  00:20:37,791 - #12 print
+INFO  00:20:37,791 - #35 (
+INFO  00:20:37,791 - #41 niz
+INFO  00:20:37,791 - #37 [
+INFO  00:20:37,792 - #42 2
+INFO  00:20:37,792 - #38 ]
+INFO  00:20:37,792 - #36 )
+INFO  00:20:37,792 - #31 ;
+INFO  00:20:37,792 - #41 nizch
+INFO  00:20:37,792 - #28 =
+INFO  00:20:37,792 - #11 new
+INFO  00:20:37,792 - #41 char
+INFO  00:20:37,792 - #37 [
+INFO  00:20:37,793 - #42 3
+INFO  00:20:37,793 - #38 ]
+INFO  00:20:37,793 - #31 ;
+INFO  00:20:37,793 - #41 nizch
+INFO  00:20:37,793 - #37 [
+INFO  00:20:37,793 - #42 0
+INFO  00:20:37,793 - #38 ]
+INFO  00:20:37,793 - #28 =
+INFO  00:20:37,793 - #43 a
+INFO  00:20:37,793 - #31 ;
+INFO  00:20:37,794 - #41 nizch
+INFO  00:20:37,794 - #37 [
+INFO  00:20:37,794 - #41 jedan
+INFO  00:20:37,794 - #38 ]
+INFO  00:20:37,794 - #28 =
+INFO  00:20:37,794 - #43 b
+INFO  00:20:37,794 - #31 ;
+INFO  00:20:37,794 - #41 nizch
+INFO  00:20:37,794 - #37 [
+INFO  00:20:37,795 - #41 pet
+INFO  00:20:37,795 - #46 -
+INFO  00:20:37,795 - #42 3
+INFO  00:20:37,795 - #38 ]
+INFO  00:20:37,796 - #28 =
+INFO  00:20:37,796 - #43 c
+INFO  00:20:37,796 - #31 ;
+INFO  00:20:37,796 - #12 print
+INFO  00:20:37,796 - #35 (
+INFO  00:20:37,796 - #41 nizch
+INFO  00:20:37,796 - #37 [
+INFO  00:20:37,796 - #42 1
+INFO  00:20:37,796 - #38 ]
+INFO  00:20:37,796 - #36 )
+INFO  00:20:37,797 - #31 ;
+INFO  00:20:37,797 - #12 print
+INFO  00:20:37,797 - #35 (
+INFO  00:20:37,797 - #41 nizch
+INFO  00:20:37,797 - #37 [
+INFO  00:20:37,797 - #41 jedan
+INFO  00:20:37,797 - #47 *
+INFO  00:20:37,797 - #42 2
+INFO  00:20:37,797 - #38 ]
+INFO  00:20:37,797 - #36 )
+INFO  00:20:37,798 - #31 ;
+INFO  00:20:37,798 - #41 bodovi
+INFO  00:20:37,798 - #28 =
+INFO  00:20:37,798 - #41 bodovi
+INFO  00:20:37,798 - #45 +
+INFO  00:20:37,798 - #35 (
+INFO  00:20:37,798 - #41 pet
+INFO  00:20:37,798 - #47 *
+INFO  00:20:37,798 - #41 jedan
+INFO  00:20:37,798 - #46 -
+INFO  00:20:37,799 - #42 1
+INFO  00:20:37,799 - #36 )
+INFO  00:20:37,799 - #47 *
+INFO  00:20:37,799 - #41 bodovi
+INFO  00:20:37,799 - #46 -
+INFO  00:20:37,799 - #35 (
+INFO  00:20:37,799 - #42 3
+INFO  00:20:37,802 - #49 %
+INFO  00:20:37,802 - #42 2
+INFO  00:20:37,803 - #45 +
+INFO  00:20:37,803 - #42 3
+INFO  00:20:37,803 - #47 *
+INFO  00:20:37,803 - #42 2
+INFO  00:20:37,803 - #46 -
+INFO  00:20:37,803 - #42 3
+INFO  00:20:37,803 - #36 )
+INFO  00:20:37,803 - #31 ;
+INFO  00:20:37,803 - #12 print
+INFO  00:20:37,803 - #35 (
+INFO  00:20:37,803 - #41 bodovi
+INFO  00:20:37,803 - #36 )
+INFO  00:20:37,803 - #31 ;
+INFO  00:20:37,803 - #13 read
+INFO  00:20:37,803 - #35 (
+INFO  00:20:37,804 - #41 bodovi
+INFO  00:20:37,804 - #36 )
+INFO  00:20:37,804 - #31 ;
+INFO  00:20:37,804 - #12 print
+INFO  00:20:37,804 - #35 (
+INFO  00:20:37,804 - #41 niz
+INFO  00:20:37,804 - #37 [
+INFO  00:20:37,804 - #42 0
+INFO  00:20:37,804 - #38 ]
+INFO  00:20:37,805 - #36 )
+INFO  00:20:37,805 - #31 ;
+INFO  00:20:37,805 - #41 bodovi
+INFO  00:20:37,805 - #29 ++
+INFO  00:20:37,805 - #31 ;
+INFO  00:20:37,805 - #18 goto
+INFO  00:20:37,805 - #41 labela1
+INFO  00:20:37,805 - #31 ;
+INFO  00:20:37,807 - #41 bodovi
+INFO  00:20:37,807 - #28 =
+INFO  00:20:37,807 - #41 bodovi
+INFO  00:20:37,807 - #47 *
+INFO  00:20:37,808 - #42 2
+INFO  00:20:37,808 - #31 ;
+INFO  00:20:37,808 - #41 bodovi
+INFO  00:20:37,808 - #30 --
+INFO  00:20:37,808 - #31 ;
+INFO  00:20:37,808 - #41 labela1
+INFO  00:20:37,808 - #32 :
+INFO  00:20:37,809 - #41 bodovi
+INFO  00:20:37,809 - #28 =
+INFO  00:20:37,809 - #41 bodovi
+INFO  00:20:37,809 - #45 +
+INFO  00:20:37,810 - #42 3
+INFO  00:20:37,810 - #31 ;
+INFO  00:20:37,810 - #12 print
+INFO  00:20:37,810 - #35 (
+INFO  00:20:37,810 - #41 bodovi
+INFO  00:20:37,810 - #36 )
+INFO  00:20:37,810 - #31 ;
+INFO  00:20:37,810 - #18 goto
+INFO  00:20:37,810 - #41 labelaminus
+INFO  00:20:37,810 - #31 ;
+INFO  00:20:37,811 - #12 print
+INFO  00:20:37,811 - #35 (
+INFO  00:20:37,811 - #43 +
+INFO  00:20:37,811 - #36 )
+INFO  00:20:37,811 - #31 ;
+INFO  00:20:37,811 - #41 labelaminus
+INFO  00:20:37,811 - #32 :
+INFO  00:20:37,811 - #12 print
+INFO  00:20:37,812 - #35 (
+INFO  00:20:37,812 - #43 -
+INFO  00:20:37,812 - #36 )
+INFO  00:20:37,812 - #31 ;
+INFO  00:20:37,812 - #40 }
+INFO  00:20:37,812 - #40 }
+INFO  00:20:37,842 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclVar(
+    DeclVar(
+      DeclConst(
+        DeclConst(
+          DeclConst(
+            NoDeclaration(
+            ) [NoDeclaration]
+            NumConstDecl(
+              Type(
+               int
+              ) [Type]
+             nula
+             0
+              NoConstIdentDecl(
+              ) [NoConstIdentDecl]
+            ) [NumConstDecl]
+          ) [DeclConst]
+          NumConstDecl(
+            Type(
+             int
+            ) [Type]
+           jedan
+           1
+            NoConstIdentDecl(
+            ) [NoConstIdentDecl]
+          ) [NumConstDecl]
+        ) [DeclConst]
+        NumConstDecl(
+          Type(
+           int
+          ) [Type]
+         pet
+         5
+          NoConstIdentDecl(
+          ) [NoConstIdentDecl]
+        ) [NumConstDecl]
+      ) [DeclConst]
+      VarArrayDecl(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarIdentDecl(
+        ) [NoVarIdentDecl]
+      ) [VarArrayDecl]
+    ) [DeclVar]
+    VarArrayDecl(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarIdentDecl(
+      ) [NoVarIdentDecl]
+    ) [VarArrayDecl]
+  ) [DeclVar]
+  MethodDeclarations(
+    MethodDeclWithRetVoid(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         bodovi
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      Statements(
+        NoLabelSingleStmt(
+          DesignStmt(
+            DesignStmtAssignExpr(
+              DesignAssignStatement(
+                Designator(
+                  DesignName(
+                   bodovi
+                  ) [DesignName]
+                  NoArrayAccess(
+                  ) [NoArrayAccess]
+                ) [Designator]
+                Assignop(
+                ) [Assignop]
+                SingleTerm(
+                  TermPositive(
+                    Term(
+                      FactorNumConst(
+                       0
+                      ) [FactorNumConst]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                  ) [TermPositive]
+                ) [SingleTerm]
+              ) [DesignAssignStatement]
+            ) [DesignStmtAssignExpr]
+          ) [DesignStmt]
+        ) [NoLabelSingleStmt]
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              StmtList(
+                                                StmtList(
+                                                  StmtList(
+                                                    StmtList(
+                                                      StmtList(
+                                                        StmtList(
+                                                          StmtList(
+                                                            StmtList(
+                                                              StmtList(
+                                                                StmtList(
+                                                                  StmtList(
+                                                                    StmtList(
+                                                                      NoStmt(
+                                                                      ) [NoStmt]
+                                                                      NoLabelSingleStmt(
+                                                                        DesignStmt(
+                                                                          DesignStmtIncr(
+                                                                            Designator(
+                                                                              DesignName(
+                                                                               bodovi
+                                                                              ) [DesignName]
+                                                                              NoArrayAccess(
+                                                                              ) [NoArrayAccess]
+                                                                            ) [Designator]
+                                                                          ) [DesignStmtIncr]
+                                                                        ) [DesignStmt]
+                                                                      ) [NoLabelSingleStmt]
+                                                                    ) [StmtList]
+                                                                    NoLabelSingleStmt(
+                                                                      DesignStmt(
+                                                                        DesignStmtAssignExpr(
+                                                                          DesignAssignStatement(
+                                                                            Designator(
+                                                                              DesignName(
+                                                                               bodovi
+                                                                              ) [DesignName]
+                                                                              NoArrayAccess(
+                                                                              ) [NoArrayAccess]
+                                                                            ) [Designator]
+                                                                            Assignop(
+                                                                            ) [Assignop]
+                                                                            AddOpExpression(
+                                                                              SingleTerm(
+                                                                                TermPositive(
+                                                                                  Term(
+                                                                                    FactorDesignator(
+                                                                                      Designator(
+                                                                                        DesignName(
+                                                                                         bodovi
+                                                                                        ) [DesignName]
+                                                                                        NoArrayAccess(
+                                                                                        ) [NoArrayAccess]
+                                                                                      ) [Designator]
+                                                                                    ) [FactorDesignator]
+                                                                                    NoMulopFactor(
+                                                                                    ) [NoMulopFactor]
+                                                                                  ) [Term]
+                                                                                ) [TermPositive]
+                                                                              ) [SingleTerm]
+                                                                              Additon(
+                                                                               +
+                                                                              ) [Additon]
+                                                                              Term(
+                                                                                FactorDesignator(
+                                                                                  Designator(
+                                                                                    DesignName(
+                                                                                     jedan
+                                                                                    ) [DesignName]
+                                                                                    NoArrayAccess(
+                                                                                    ) [NoArrayAccess]
+                                                                                  ) [Designator]
+                                                                                ) [FactorDesignator]
+                                                                                NoMulopFactor(
+                                                                                ) [NoMulopFactor]
+                                                                              ) [Term]
+                                                                            ) [AddOpExpression]
+                                                                          ) [DesignAssignStatement]
+                                                                        ) [DesignStmtAssignExpr]
+                                                                      ) [DesignStmt]
+                                                                    ) [NoLabelSingleStmt]
+                                                                  ) [StmtList]
+                                                                  NoLabelSingleStmt(
+                                                                    DesignStmt(
+                                                                      DesignStmtAssignExpr(
+                                                                        DesignAssignStatement(
+                                                                          Designator(
+                                                                            DesignName(
+                                                                             bodovi
+                                                                            ) [DesignName]
+                                                                            NoArrayAccess(
+                                                                            ) [NoArrayAccess]
+                                                                          ) [Designator]
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          SingleTerm(
+                                                                            TermPositive(
+                                                                              Term(
+                                                                                FactorDesignator(
+                                                                                  Designator(
+                                                                                    DesignName(
+                                                                                     bodovi
+                                                                                    ) [DesignName]
+                                                                                    NoArrayAccess(
+                                                                                    ) [NoArrayAccess]
+                                                                                  ) [Designator]
+                                                                                ) [FactorDesignator]
+                                                                                MulopFactors(
+                                                                                  Multiplication(
+                                                                                   *
+                                                                                  ) [Multiplication]
+                                                                                  FactorDesignator(
+                                                                                    Designator(
+                                                                                      DesignName(
+                                                                                       pet
+                                                                                      ) [DesignName]
+                                                                                      NoArrayAccess(
+                                                                                      ) [NoArrayAccess]
+                                                                                    ) [Designator]
+                                                                                  ) [FactorDesignator]
+                                                                                  NoMulopFactor(
+                                                                                  ) [NoMulopFactor]
+                                                                                ) [MulopFactors]
+                                                                              ) [Term]
+                                                                            ) [TermPositive]
+                                                                          ) [SingleTerm]
+                                                                        ) [DesignAssignStatement]
+                                                                      ) [DesignStmtAssignExpr]
+                                                                    ) [DesignStmt]
+                                                                  ) [NoLabelSingleStmt]
+                                                                ) [StmtList]
+                                                                NoLabelSingleStmt(
+                                                                  DesignStmt(
+                                                                    DesignStmtDecr(
+                                                                      Designator(
+                                                                        DesignName(
+                                                                         bodovi
+                                                                        ) [DesignName]
+                                                                        NoArrayAccess(
+                                                                        ) [NoArrayAccess]
+                                                                      ) [Designator]
+                                                                    ) [DesignStmtDecr]
+                                                                  ) [DesignStmt]
+                                                                ) [NoLabelSingleStmt]
+                                                              ) [StmtList]
+                                                              NoLabelSingleStmt(
+                                                                PrintExprStmt(
+                                                                  SingleTerm(
+                                                                    TermPositive(
+                                                                      Term(
+                                                                        FactorDesignator(
+                                                                          Designator(
+                                                                            DesignName(
+                                                                             bodovi
+                                                                            ) [DesignName]
+                                                                            NoArrayAccess(
+                                                                            ) [NoArrayAccess]
+                                                                          ) [Designator]
+                                                                        ) [FactorDesignator]
+                                                                        NoMulopFactor(
+                                                                        ) [NoMulopFactor]
+                                                                      ) [Term]
+                                                                    ) [TermPositive]
+                                                                  ) [SingleTerm]
+                                                                ) [PrintExprStmt]
+                                                              ) [NoLabelSingleStmt]
+                                                            ) [StmtList]
+                                                            NoLabelSingleStmt(
+                                                              DesignStmt(
+                                                                DesignStmtAssignExpr(
+                                                                  DesignAssignStatement(
+                                                                    Designator(
+                                                                      DesignName(
+                                                                       niz
+                                                                      ) [DesignName]
+                                                                      NoArrayAccess(
+                                                                      ) [NoArrayAccess]
+                                                                    ) [Designator]
+                                                                    Assignop(
+                                                                    ) [Assignop]
+                                                                    SingleTerm(
+                                                                      TermPositive(
+                                                                        Term(
+                                                                          FactorNewExpr(
+                                                                            Type(
+                                                                             int
+                                                                            ) [Type]
+                                                                            SingleTerm(
+                                                                              TermPositive(
+                                                                                Term(
+                                                                                  FactorNumConst(
+                                                                                   3
+                                                                                  ) [FactorNumConst]
+                                                                                  NoMulopFactor(
+                                                                                  ) [NoMulopFactor]
+                                                                                ) [Term]
+                                                                              ) [TermPositive]
+                                                                            ) [SingleTerm]
+                                                                          ) [FactorNewExpr]
+                                                                          NoMulopFactor(
+                                                                          ) [NoMulopFactor]
+                                                                        ) [Term]
+                                                                      ) [TermPositive]
+                                                                    ) [SingleTerm]
+                                                                  ) [DesignAssignStatement]
+                                                                ) [DesignStmtAssignExpr]
+                                                              ) [DesignStmt]
+                                                            ) [NoLabelSingleStmt]
+                                                          ) [StmtList]
+                                                          NoLabelSingleStmt(
+                                                            DesignStmt(
+                                                              DesignStmtAssignExpr(
+                                                                DesignAssignStatement(
+                                                                  Designator(
+                                                                    DesignName(
+                                                                     niz
+                                                                    ) [DesignName]
+                                                                    ArrayAcc(
+                                                                      SingleTerm(
+                                                                        TermPositive(
+                                                                          Term(
+                                                                            FactorDesignator(
+                                                                              Designator(
+                                                                                DesignName(
+                                                                                 nula
+                                                                                ) [DesignName]
+                                                                                NoArrayAccess(
+                                                                                ) [NoArrayAccess]
+                                                                              ) [Designator]
+                                                                            ) [FactorDesignator]
+                                                                            NoMulopFactor(
+                                                                            ) [NoMulopFactor]
+                                                                          ) [Term]
+                                                                        ) [TermPositive]
+                                                                      ) [SingleTerm]
+                                                                    ) [ArrayAcc]
+                                                                  ) [Designator]
+                                                                  Assignop(
+                                                                  ) [Assignop]
+                                                                  SingleTerm(
+                                                                    TermPositive(
+                                                                      Term(
+                                                                        FactorDesignator(
+                                                                          Designator(
+                                                                            DesignName(
+                                                                             jedan
+                                                                            ) [DesignName]
+                                                                            NoArrayAccess(
+                                                                            ) [NoArrayAccess]
+                                                                          ) [Designator]
+                                                                        ) [FactorDesignator]
+                                                                        NoMulopFactor(
+                                                                        ) [NoMulopFactor]
+                                                                      ) [Term]
+                                                                    ) [TermPositive]
+                                                                  ) [SingleTerm]
+                                                                ) [DesignAssignStatement]
+                                                              ) [DesignStmtAssignExpr]
+                                                            ) [DesignStmt]
+                                                          ) [NoLabelSingleStmt]
+                                                        ) [StmtList]
+                                                        NoLabelSingleStmt(
+                                                          DesignStmt(
+                                                            DesignStmtAssignExpr(
+                                                              DesignAssignStatement(
+                                                                Designator(
+                                                                  DesignName(
+                                                                   niz
+                                                                  ) [DesignName]
+                                                                  ArrayAcc(
+                                                                    SingleTerm(
+                                                                      TermPositive(
+                                                                        Term(
+                                                                          FactorNumConst(
+                                                                           1
+                                                                          ) [FactorNumConst]
+                                                                          NoMulopFactor(
+                                                                          ) [NoMulopFactor]
+                                                                        ) [Term]
+                                                                      ) [TermPositive]
+                                                                    ) [SingleTerm]
+                                                                  ) [ArrayAcc]
+                                                                ) [Designator]
+                                                                Assignop(
+                                                                ) [Assignop]
+                                                                SingleTerm(
+                                                                  TermPositive(
+                                                                    Term(
+                                                                      FactorNumConst(
+                                                                       2
+                                                                      ) [FactorNumConst]
+                                                                      NoMulopFactor(
+                                                                      ) [NoMulopFactor]
+                                                                    ) [Term]
+                                                                  ) [TermPositive]
+                                                                ) [SingleTerm]
+                                                              ) [DesignAssignStatement]
+                                                            ) [DesignStmtAssignExpr]
+                                                          ) [DesignStmt]
+                                                        ) [NoLabelSingleStmt]
+                                                      ) [StmtList]
+                                                      NoLabelSingleStmt(
+                                                        DesignStmt(
+                                                          DesignStmtAssignExpr(
+                                                            DesignAssignStatement(
+                                                              Designator(
+                                                                DesignName(
+                                                                 niz
+                                                                ) [DesignName]
+                                                                ArrayAcc(
+                                                                  SingleTerm(
+                                                                    TermPositive(
+                                                                      Term(
+                                                                        FactorDesignator(
+                                                                          Designator(
+                                                                            DesignName(
+                                                                             niz
+                                                                            ) [DesignName]
+                                                                            ArrayAcc(
+                                                                              SingleTerm(
+                                                                                TermPositive(
+                                                                                  Term(
+                                                                                    FactorDesignator(
+                                                                                      Designator(
+                                                                                        DesignName(
+                                                                                         jedan
+                                                                                        ) [DesignName]
+                                                                                        NoArrayAccess(
+                                                                                        ) [NoArrayAccess]
+                                                                                      ) [Designator]
+                                                                                    ) [FactorDesignator]
+                                                                                    NoMulopFactor(
+                                                                                    ) [NoMulopFactor]
+                                                                                  ) [Term]
+                                                                                ) [TermPositive]
+                                                                              ) [SingleTerm]
+                                                                            ) [ArrayAcc]
+                                                                          ) [Designator]
+                                                                        ) [FactorDesignator]
+                                                                        NoMulopFactor(
+                                                                        ) [NoMulopFactor]
+                                                                      ) [Term]
+                                                                    ) [TermPositive]
+                                                                  ) [SingleTerm]
+                                                                ) [ArrayAcc]
+                                                              ) [Designator]
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              SingleTerm(
+                                                                TermPositive(
+                                                                  Term(
+                                                                    FactorDesignator(
+                                                                      Designator(
+                                                                        DesignName(
+                                                                         niz
+                                                                        ) [DesignName]
+                                                                        ArrayAcc(
+                                                                          SingleTerm(
+                                                                            TermPositive(
+                                                                              Term(
+                                                                                FactorDesignator(
+                                                                                  Designator(
+                                                                                    DesignName(
+                                                                                     niz
+                                                                                    ) [DesignName]
+                                                                                    ArrayAcc(
+                                                                                      SingleTerm(
+                                                                                        TermPositive(
+                                                                                          Term(
+                                                                                            FactorNumConst(
+                                                                                             0
+                                                                                            ) [FactorNumConst]
+                                                                                            NoMulopFactor(
+                                                                                            ) [NoMulopFactor]
+                                                                                          ) [Term]
+                                                                                        ) [TermPositive]
+                                                                                      ) [SingleTerm]
+                                                                                    ) [ArrayAcc]
+                                                                                  ) [Designator]
+                                                                                ) [FactorDesignator]
+                                                                                NoMulopFactor(
+                                                                                ) [NoMulopFactor]
+                                                                              ) [Term]
+                                                                            ) [TermPositive]
+                                                                          ) [SingleTerm]
+                                                                        ) [ArrayAcc]
+                                                                      ) [Designator]
+                                                                    ) [FactorDesignator]
+                                                                    MulopFactors(
+                                                                      Multiplication(
+                                                                       *
+                                                                      ) [Multiplication]
+                                                                      FactorNumConst(
+                                                                       3
+                                                                      ) [FactorNumConst]
+                                                                      NoMulopFactor(
+                                                                      ) [NoMulopFactor]
+                                                                    ) [MulopFactors]
+                                                                  ) [Term]
+                                                                ) [TermPositive]
+                                                              ) [SingleTerm]
+                                                            ) [DesignAssignStatement]
+                                                          ) [DesignStmtAssignExpr]
+                                                        ) [DesignStmt]
+                                                      ) [NoLabelSingleStmt]
+                                                    ) [StmtList]
+                                                    NoLabelSingleStmt(
+                                                      DesignStmt(
+                                                        DesignStmtAssignExpr(
+                                                          DesignAssignStatement(
+                                                            Designator(
+                                                              DesignName(
+                                                               bodovi
+                                                              ) [DesignName]
+                                                              NoArrayAccess(
+                                                              ) [NoArrayAccess]
+                                                            ) [Designator]
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            SingleTerm(
+                                                              TermPositive(
+                                                                Term(
+                                                                  FactorDesignator(
+                                                                    Designator(
+                                                                      DesignName(
+                                                                       niz
+                                                                      ) [DesignName]
+                                                                      ArrayAcc(
+                                                                        SingleTerm(
+                                                                          TermPositive(
+                                                                            Term(
+                                                                              FactorNumConst(
+                                                                               2
+                                                                              ) [FactorNumConst]
+                                                                              NoMulopFactor(
+                                                                              ) [NoMulopFactor]
+                                                                            ) [Term]
+                                                                          ) [TermPositive]
+                                                                        ) [SingleTerm]
+                                                                      ) [ArrayAcc]
+                                                                    ) [Designator]
+                                                                  ) [FactorDesignator]
+                                                                  MulopFactors(
+                                                                    Division(
+                                                                     /
+                                                                    ) [Division]
+                                                                    FactorDesignator(
+                                                                      Designator(
+                                                                        DesignName(
+                                                                         niz
+                                                                        ) [DesignName]
+                                                                        ArrayAcc(
+                                                                          SingleTerm(
+                                                                            TermPositive(
+                                                                              Term(
+                                                                                FactorNumConst(
+                                                                                 0
+                                                                                ) [FactorNumConst]
+                                                                                NoMulopFactor(
+                                                                                ) [NoMulopFactor]
+                                                                              ) [Term]
+                                                                            ) [TermPositive]
+                                                                          ) [SingleTerm]
+                                                                        ) [ArrayAcc]
+                                                                      ) [Designator]
+                                                                    ) [FactorDesignator]
+                                                                    NoMulopFactor(
+                                                                    ) [NoMulopFactor]
+                                                                  ) [MulopFactors]
+                                                                ) [Term]
+                                                              ) [TermPositive]
+                                                            ) [SingleTerm]
+                                                          ) [DesignAssignStatement]
+                                                        ) [DesignStmtAssignExpr]
+                                                      ) [DesignStmt]
+                                                    ) [NoLabelSingleStmt]
+                                                  ) [StmtList]
+                                                  NoLabelSingleStmt(
+                                                    PrintExprStmt(
+                                                      SingleTerm(
+                                                        TermPositive(
+                                                          Term(
+                                                            FactorDesignator(
+                                                              Designator(
+                                                                DesignName(
+                                                                 bodovi
+                                                                ) [DesignName]
+                                                                NoArrayAccess(
+                                                                ) [NoArrayAccess]
+                                                              ) [Designator]
+                                                            ) [FactorDesignator]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [Term]
+                                                        ) [TermPositive]
+                                                      ) [SingleTerm]
+                                                    ) [PrintExprStmt]
+                                                  ) [NoLabelSingleStmt]
+                                                ) [StmtList]
+                                                NoLabelSingleStmt(
+                                                  PrintExprStmt(
+                                                    SingleTerm(
+                                                      TermPositive(
+                                                        Term(
+                                                          FactorDesignator(
+                                                            Designator(
+                                                              DesignName(
+                                                               niz
+                                                              ) [DesignName]
+                                                              ArrayAcc(
+                                                                SingleTerm(
+                                                                  TermPositive(
+                                                                    Term(
+                                                                      FactorNumConst(
+                                                                       2
+                                                                      ) [FactorNumConst]
+                                                                      NoMulopFactor(
+                                                                      ) [NoMulopFactor]
+                                                                    ) [Term]
+                                                                  ) [TermPositive]
+                                                                ) [SingleTerm]
+                                                              ) [ArrayAcc]
+                                                            ) [Designator]
+                                                          ) [FactorDesignator]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                      ) [TermPositive]
+                                                    ) [SingleTerm]
+                                                  ) [PrintExprStmt]
+                                                ) [NoLabelSingleStmt]
+                                              ) [StmtList]
+                                              NoLabelSingleStmt(
+                                                DesignStmt(
+                                                  DesignStmtAssignExpr(
+                                                    DesignAssignStatement(
+                                                      Designator(
+                                                        DesignName(
+                                                         nizch
+                                                        ) [DesignName]
+                                                        NoArrayAccess(
+                                                        ) [NoArrayAccess]
+                                                      ) [Designator]
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      SingleTerm(
+                                                        TermPositive(
+                                                          Term(
+                                                            FactorNewExpr(
+                                                              Type(
+                                                               char
+                                                              ) [Type]
+                                                              SingleTerm(
+                                                                TermPositive(
+                                                                  Term(
+                                                                    FactorNumConst(
+                                                                     3
+                                                                    ) [FactorNumConst]
+                                                                    NoMulopFactor(
+                                                                    ) [NoMulopFactor]
+                                                                  ) [Term]
+                                                                ) [TermPositive]
+                                                              ) [SingleTerm]
+                                                            ) [FactorNewExpr]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [Term]
+                                                        ) [TermPositive]
+                                                      ) [SingleTerm]
+                                                    ) [DesignAssignStatement]
+                                                  ) [DesignStmtAssignExpr]
+                                                ) [DesignStmt]
+                                              ) [NoLabelSingleStmt]
+                                            ) [StmtList]
+                                            NoLabelSingleStmt(
+                                              DesignStmt(
+                                                DesignStmtAssignExpr(
+                                                  DesignAssignStatement(
+                                                    Designator(
+                                                      DesignName(
+                                                       nizch
+                                                      ) [DesignName]
+                                                      ArrayAcc(
+                                                        SingleTerm(
+                                                          TermPositive(
+                                                            Term(
+                                                              FactorNumConst(
+                                                               0
+                                                              ) [FactorNumConst]
+                                                              NoMulopFactor(
+                                                              ) [NoMulopFactor]
+                                                            ) [Term]
+                                                          ) [TermPositive]
+                                                        ) [SingleTerm]
+                                                      ) [ArrayAcc]
+                                                    ) [Designator]
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    SingleTerm(
+                                                      TermPositive(
+                                                        Term(
+                                                          FactorCharConst(
+                                                           a
+                                                          ) [FactorCharConst]
+                                                          NoMulopFactor(
+                                                          ) [NoMulopFactor]
+                                                        ) [Term]
+                                                      ) [TermPositive]
+                                                    ) [SingleTerm]
+                                                  ) [DesignAssignStatement]
+                                                ) [DesignStmtAssignExpr]
+                                              ) [DesignStmt]
+                                            ) [NoLabelSingleStmt]
+                                          ) [StmtList]
+                                          NoLabelSingleStmt(
+                                            DesignStmt(
+                                              DesignStmtAssignExpr(
+                                                DesignAssignStatement(
+                                                  Designator(
+                                                    DesignName(
+                                                     nizch
+                                                    ) [DesignName]
+                                                    ArrayAcc(
+                                                      SingleTerm(
+                                                        TermPositive(
+                                                          Term(
+                                                            FactorDesignator(
+                                                              Designator(
+                                                                DesignName(
+                                                                 jedan
+                                                                ) [DesignName]
+                                                                NoArrayAccess(
+                                                                ) [NoArrayAccess]
+                                                              ) [Designator]
+                                                            ) [FactorDesignator]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [Term]
+                                                        ) [TermPositive]
+                                                      ) [SingleTerm]
+                                                    ) [ArrayAcc]
+                                                  ) [Designator]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  SingleTerm(
+                                                    TermPositive(
+                                                      Term(
+                                                        FactorCharConst(
+                                                         b
+                                                        ) [FactorCharConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                    ) [TermPositive]
+                                                  ) [SingleTerm]
+                                                ) [DesignAssignStatement]
+                                              ) [DesignStmtAssignExpr]
+                                            ) [DesignStmt]
+                                          ) [NoLabelSingleStmt]
+                                        ) [StmtList]
+                                        NoLabelSingleStmt(
+                                          DesignStmt(
+                                            DesignStmtAssignExpr(
+                                              DesignAssignStatement(
+                                                Designator(
+                                                  DesignName(
+                                                   nizch
+                                                  ) [DesignName]
+                                                  ArrayAcc(
+                                                    AddOpExpression(
+                                                      SingleTerm(
+                                                        TermPositive(
+                                                          Term(
+                                                            FactorDesignator(
+                                                              Designator(
+                                                                DesignName(
+                                                                 pet
+                                                                ) [DesignName]
+                                                                NoArrayAccess(
+                                                                ) [NoArrayAccess]
+                                                              ) [Designator]
+                                                            ) [FactorDesignator]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [Term]
+                                                        ) [TermPositive]
+                                                      ) [SingleTerm]
+                                                      Substraction(
+                                                       -
+                                                      ) [Substraction]
+                                                      Term(
+                                                        FactorNumConst(
+                                                         3
+                                                        ) [FactorNumConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [Term]
+                                                    ) [AddOpExpression]
+                                                  ) [ArrayAcc]
+                                                ) [Designator]
+                                                Assignop(
+                                                ) [Assignop]
+                                                SingleTerm(
+                                                  TermPositive(
+                                                    Term(
+                                                      FactorCharConst(
+                                                       c
+                                                      ) [FactorCharConst]
+                                                      NoMulopFactor(
+                                                      ) [NoMulopFactor]
+                                                    ) [Term]
+                                                  ) [TermPositive]
+                                                ) [SingleTerm]
+                                              ) [DesignAssignStatement]
+                                            ) [DesignStmtAssignExpr]
+                                          ) [DesignStmt]
+                                        ) [NoLabelSingleStmt]
+                                      ) [StmtList]
+                                      NoLabelSingleStmt(
+                                        PrintExprStmt(
+                                          SingleTerm(
+                                            TermPositive(
+                                              Term(
+                                                FactorDesignator(
+                                                  Designator(
+                                                    DesignName(
+                                                     nizch
+                                                    ) [DesignName]
+                                                    ArrayAcc(
+                                                      SingleTerm(
+                                                        TermPositive(
+                                                          Term(
+                                                            FactorNumConst(
+                                                             1
+                                                            ) [FactorNumConst]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [Term]
+                                                        ) [TermPositive]
+                                                      ) [SingleTerm]
+                                                    ) [ArrayAcc]
+                                                  ) [Designator]
+                                                ) [FactorDesignator]
+                                                NoMulopFactor(
+                                                ) [NoMulopFactor]
+                                              ) [Term]
+                                            ) [TermPositive]
+                                          ) [SingleTerm]
+                                        ) [PrintExprStmt]
+                                      ) [NoLabelSingleStmt]
+                                    ) [StmtList]
+                                    NoLabelSingleStmt(
+                                      PrintExprStmt(
+                                        SingleTerm(
+                                          TermPositive(
+                                            Term(
+                                              FactorDesignator(
+                                                Designator(
+                                                  DesignName(
+                                                   nizch
+                                                  ) [DesignName]
+                                                  ArrayAcc(
+                                                    SingleTerm(
+                                                      TermPositive(
+                                                        Term(
+                                                          FactorDesignator(
+                                                            Designator(
+                                                              DesignName(
+                                                               jedan
+                                                              ) [DesignName]
+                                                              NoArrayAccess(
+                                                              ) [NoArrayAccess]
+                                                            ) [Designator]
+                                                          ) [FactorDesignator]
+                                                          MulopFactors(
+                                                            Multiplication(
+                                                             *
+                                                            ) [Multiplication]
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [MulopFactors]
+                                                        ) [Term]
+                                                      ) [TermPositive]
+                                                    ) [SingleTerm]
+                                                  ) [ArrayAcc]
+                                                ) [Designator]
+                                              ) [FactorDesignator]
+                                              NoMulopFactor(
+                                              ) [NoMulopFactor]
+                                            ) [Term]
+                                          ) [TermPositive]
+                                        ) [SingleTerm]
+                                      ) [PrintExprStmt]
+                                    ) [NoLabelSingleStmt]
+                                  ) [StmtList]
+                                  NoLabelSingleStmt(
+                                    DesignStmt(
+                                      DesignStmtAssignExpr(
+                                        DesignAssignStatement(
+                                          Designator(
+                                            DesignName(
+                                             bodovi
+                                            ) [DesignName]
+                                            NoArrayAccess(
+                                            ) [NoArrayAccess]
+                                          ) [Designator]
+                                          Assignop(
+                                          ) [Assignop]
+                                          AddOpExpression(
+                                            AddOpExpression(
+                                              SingleTerm(
+                                                TermPositive(
+                                                  Term(
+                                                    FactorDesignator(
+                                                      Designator(
+                                                        DesignName(
+                                                         bodovi
+                                                        ) [DesignName]
+                                                        NoArrayAccess(
+                                                        ) [NoArrayAccess]
+                                                      ) [Designator]
+                                                    ) [FactorDesignator]
+                                                    NoMulopFactor(
+                                                    ) [NoMulopFactor]
+                                                  ) [Term]
+                                                ) [TermPositive]
+                                              ) [SingleTerm]
+                                              Additon(
+                                               +
+                                              ) [Additon]
+                                              Term(
+                                                FactorExpr(
+                                                  AddOpExpression(
+                                                    SingleTerm(
+                                                      TermPositive(
+                                                        Term(
+                                                          FactorDesignator(
+                                                            Designator(
+                                                              DesignName(
+                                                               pet
+                                                              ) [DesignName]
+                                                              NoArrayAccess(
+                                                              ) [NoArrayAccess]
+                                                            ) [Designator]
+                                                          ) [FactorDesignator]
+                                                          MulopFactors(
+                                                            Multiplication(
+                                                             *
+                                                            ) [Multiplication]
+                                                            FactorDesignator(
+                                                              Designator(
+                                                                DesignName(
+                                                                 jedan
+                                                                ) [DesignName]
+                                                                NoArrayAccess(
+                                                                ) [NoArrayAccess]
+                                                              ) [Designator]
+                                                            ) [FactorDesignator]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [MulopFactors]
+                                                        ) [Term]
+                                                      ) [TermPositive]
+                                                    ) [SingleTerm]
+                                                    Substraction(
+                                                     -
+                                                    ) [Substraction]
+                                                    Term(
+                                                      FactorNumConst(
+                                                       1
+                                                      ) [FactorNumConst]
+                                                      NoMulopFactor(
+                                                      ) [NoMulopFactor]
+                                                    ) [Term]
+                                                  ) [AddOpExpression]
+                                                ) [FactorExpr]
+                                                MulopFactors(
+                                                  Multiplication(
+                                                   *
+                                                  ) [Multiplication]
+                                                  FactorDesignator(
+                                                    Designator(
+                                                      DesignName(
+                                                       bodovi
+                                                      ) [DesignName]
+                                                      NoArrayAccess(
+                                                      ) [NoArrayAccess]
+                                                    ) [Designator]
+                                                  ) [FactorDesignator]
+                                                  NoMulopFactor(
+                                                  ) [NoMulopFactor]
+                                                ) [MulopFactors]
+                                              ) [Term]
+                                            ) [AddOpExpression]
+                                            Substraction(
+                                             -
+                                            ) [Substraction]
+                                            Term(
+                                              FactorExpr(
+                                                AddOpExpression(
+                                                  AddOpExpression(
+                                                    SingleTerm(
+                                                      TermPositive(
+                                                        Term(
+                                                          FactorNumConst(
+                                                           3
+                                                          ) [FactorNumConst]
+                                                          MulopFactors(
+                                                            Mod(
+                                                             %
+                                                            ) [Mod]
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                            NoMulopFactor(
+                                                            ) [NoMulopFactor]
+                                                          ) [MulopFactors]
+                                                        ) [Term]
+                                                      ) [TermPositive]
+                                                    ) [SingleTerm]
+                                                    Additon(
+                                                     +
+                                                    ) [Additon]
+                                                    Term(
+                                                      FactorNumConst(
+                                                       3
+                                                      ) [FactorNumConst]
+                                                      MulopFactors(
+                                                        Multiplication(
+                                                         *
+                                                        ) [Multiplication]
+                                                        FactorNumConst(
+                                                         2
+                                                        ) [FactorNumConst]
+                                                        NoMulopFactor(
+                                                        ) [NoMulopFactor]
+                                                      ) [MulopFactors]
+                                                    ) [Term]
+                                                  ) [AddOpExpression]
+                                                  Substraction(
+                                                   -
+                                                  ) [Substraction]
+                                                  Term(
+                                                    FactorNumConst(
+                                                     3
+                                                    ) [FactorNumConst]
+                                                    NoMulopFactor(
+                                                    ) [NoMulopFactor]
+                                                  ) [Term]
+                                                ) [AddOpExpression]
+                                              ) [FactorExpr]
+                                              NoMulopFactor(
+                                              ) [NoMulopFactor]
+                                            ) [Term]
+                                          ) [AddOpExpression]
+                                        ) [DesignAssignStatement]
+                                      ) [DesignStmtAssignExpr]
+                                    ) [DesignStmt]
+                                  ) [NoLabelSingleStmt]
+                                ) [StmtList]
+                                NoLabelSingleStmt(
+                                  PrintExprStmt(
+                                    SingleTerm(
+                                      TermPositive(
+                                        Term(
+                                          FactorDesignator(
+                                            Designator(
+                                              DesignName(
+                                               bodovi
+                                              ) [DesignName]
+                                              NoArrayAccess(
+                                              ) [NoArrayAccess]
+                                            ) [Designator]
+                                          ) [FactorDesignator]
+                                          NoMulopFactor(
+                                          ) [NoMulopFactor]
+                                        ) [Term]
+                                      ) [TermPositive]
+                                    ) [SingleTerm]
+                                  ) [PrintExprStmt]
+                                ) [NoLabelSingleStmt]
+                              ) [StmtList]
+                              NoLabelSingleStmt(
+                                ReadStmt(
+                                  Designator(
+                                    DesignName(
+                                     bodovi
+                                    ) [DesignName]
+                                    NoArrayAccess(
+                                    ) [NoArrayAccess]
+                                  ) [Designator]
+                                ) [ReadStmt]
+                              ) [NoLabelSingleStmt]
+                            ) [StmtList]
+                            NoLabelSingleStmt(
+                              PrintExprStmt(
+                                SingleTerm(
+                                  TermPositive(
+                                    Term(
+                                      FactorDesignator(
+                                        Designator(
+                                          DesignName(
+                                           niz
+                                          ) [DesignName]
+                                          ArrayAcc(
+                                            SingleTerm(
+                                              TermPositive(
+                                                Term(
+                                                  FactorNumConst(
+                                                   0
+                                                  ) [FactorNumConst]
+                                                  NoMulopFactor(
+                                                  ) [NoMulopFactor]
+                                                ) [Term]
+                                              ) [TermPositive]
+                                            ) [SingleTerm]
+                                          ) [ArrayAcc]
+                                        ) [Designator]
+                                      ) [FactorDesignator]
+                                      NoMulopFactor(
+                                      ) [NoMulopFactor]
+                                    ) [Term]
+                                  ) [TermPositive]
+                                ) [SingleTerm]
+                              ) [PrintExprStmt]
+                            ) [NoLabelSingleStmt]
+                          ) [StmtList]
+                          NoLabelSingleStmt(
+                            DesignStmt(
+                              DesignStmtIncr(
+                                Designator(
+                                  DesignName(
+                                   bodovi
+                                  ) [DesignName]
+                                  NoArrayAccess(
+                                  ) [NoArrayAccess]
+                                ) [Designator]
+                              ) [DesignStmtIncr]
+                            ) [DesignStmt]
+                          ) [NoLabelSingleStmt]
+                        ) [StmtList]
+                        NoLabelSingleStmt(
+                          GotoStmt(
+                            Label(
+                             labela1
+                            ) [Label]
+                          ) [GotoStmt]
+                        ) [NoLabelSingleStmt]
+                      ) [StmtList]
+                      NoLabelSingleStmt(
+                        DesignStmt(
+                          DesignStmtAssignExpr(
+                            DesignAssignStatement(
+                              Designator(
+                                DesignName(
+                                 bodovi
+                                ) [DesignName]
+                                NoArrayAccess(
+                                ) [NoArrayAccess]
+                              ) [Designator]
+                              Assignop(
+                              ) [Assignop]
+                              SingleTerm(
+                                TermPositive(
+                                  Term(
+                                    FactorDesignator(
+                                      Designator(
+                                        DesignName(
+                                         bodovi
+                                        ) [DesignName]
+                                        NoArrayAccess(
+                                        ) [NoArrayAccess]
+                                      ) [Designator]
+                                    ) [FactorDesignator]
+                                    MulopFactors(
+                                      Multiplication(
+                                       *
+                                      ) [Multiplication]
+                                      FactorNumConst(
+                                       2
+                                      ) [FactorNumConst]
+                                      NoMulopFactor(
+                                      ) [NoMulopFactor]
+                                    ) [MulopFactors]
+                                  ) [Term]
+                                ) [TermPositive]
+                              ) [SingleTerm]
+                            ) [DesignAssignStatement]
+                          ) [DesignStmtAssignExpr]
+                        ) [DesignStmt]
+                      ) [NoLabelSingleStmt]
+                    ) [StmtList]
+                    NoLabelSingleStmt(
+                      DesignStmt(
+                        DesignStmtDecr(
+                          Designator(
+                            DesignName(
+                             bodovi
+                            ) [DesignName]
+                            NoArrayAccess(
+                            ) [NoArrayAccess]
+                          ) [Designator]
+                        ) [DesignStmtDecr]
+                      ) [DesignStmt]
+                    ) [NoLabelSingleStmt]
+                  ) [StmtList]
+                  SingleStmt(
+                    LabelDecl(
+                      Label(
+                       labela1
+                      ) [Label]
+                    ) [LabelDecl]
+                    DesignStmt(
+                      DesignStmtAssignExpr(
+                        DesignAssignStatement(
+                          Designator(
+                            DesignName(
+                             bodovi
+                            ) [DesignName]
+                            NoArrayAccess(
+                            ) [NoArrayAccess]
+                          ) [Designator]
+                          Assignop(
+                          ) [Assignop]
+                          AddOpExpression(
+                            SingleTerm(
+                              TermPositive(
+                                Term(
+                                  FactorDesignator(
+                                    Designator(
+                                      DesignName(
+                                       bodovi
+                                      ) [DesignName]
+                                      NoArrayAccess(
+                                      ) [NoArrayAccess]
+                                    ) [Designator]
+                                  ) [FactorDesignator]
+                                  NoMulopFactor(
+                                  ) [NoMulopFactor]
+                                ) [Term]
+                              ) [TermPositive]
+                            ) [SingleTerm]
+                            Additon(
+                             +
+                            ) [Additon]
+                            Term(
+                              FactorNumConst(
+                               3
+                              ) [FactorNumConst]
+                              NoMulopFactor(
+                              ) [NoMulopFactor]
+                            ) [Term]
+                          ) [AddOpExpression]
+                        ) [DesignAssignStatement]
+                      ) [DesignStmtAssignExpr]
+                    ) [DesignStmt]
+                  ) [SingleStmt]
+                ) [StmtList]
+                NoLabelSingleStmt(
+                  PrintExprStmt(
+                    SingleTerm(
+                      TermPositive(
+                        Term(
+                          FactorDesignator(
+                            Designator(
+                              DesignName(
+                               bodovi
+                              ) [DesignName]
+                              NoArrayAccess(
+                              ) [NoArrayAccess]
+                            ) [Designator]
+                          ) [FactorDesignator]
+                          NoMulopFactor(
+                          ) [NoMulopFactor]
+                        ) [Term]
+                      ) [TermPositive]
+                    ) [SingleTerm]
+                  ) [PrintExprStmt]
+                ) [NoLabelSingleStmt]
+              ) [StmtList]
+              NoLabelSingleStmt(
+                GotoStmt(
+                  Label(
+                   labelaminus
+                  ) [Label]
+                ) [GotoStmt]
+              ) [NoLabelSingleStmt]
+            ) [StmtList]
+            NoLabelSingleStmt(
+              PrintExprStmt(
+                SingleTerm(
+                  TermPositive(
+                    Term(
+                      FactorCharConst(
+                       +
+                      ) [FactorCharConst]
+                      NoMulopFactor(
+                      ) [NoMulopFactor]
+                    ) [Term]
+                  ) [TermPositive]
+                ) [SingleTerm]
+              ) [PrintExprStmt]
+            ) [NoLabelSingleStmt]
+          ) [StmtList]
+          SingleStmt(
+            LabelDecl(
+              Label(
+               labelaminus
+              ) [Label]
+            ) [LabelDecl]
+            PrintExprStmt(
+              SingleTerm(
+                TermPositive(
+                  Term(
+                    FactorCharConst(
+                     -
+                    ) [FactorCharConst]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                ) [TermPositive]
+              ) [SingleTerm]
+            ) [PrintExprStmt]
+          ) [SingleStmt]
+        ) [StmtList]
+      ) [Statements]
+    ) [MethodDeclWithRetVoid]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:20:37,846 - ===================================
+INFO  00:20:37,853 - Obradjuje se funkcija main na liniji 13
+INFO  00:20:37,854 - Pretraga na 16(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,854 - Pretraga na 17(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,854 - Pretraga na 18(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,854 - Pretraga na 18(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,854 - Pretraga na 18(jedan) nadjeno Con jedan: int, 1, 0
+INFO  00:20:37,854 - Pretraga na 19(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,854 - Pretraga na 19(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,855 - Pretraga na 19(pet) nadjeno Con pet: int, 5, 0
+INFO  00:20:37,855 - Pretraga na 20(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,855 - Pretraga na 21(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,855 - Pretraga na 24(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,855 - Pretraga na 25(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,855 - Pretraga na 25(nula) nadjeno Con nula: int, 0, 0
+INFO  00:20:37,855 - Pretraga na 25(jedan) nadjeno Con jedan: int, 1, 0
+INFO  00:20:37,855 - Pretraga na 26(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,857 - Pretraga na 27(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,857 - Pretraga na 27(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,857 - Pretraga na 27(jedan) nadjeno Con jedan: int, 1, 0
+INFO  00:20:37,857 - Pretraga na 27(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,857 - Pretraga na 27(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,858 - Pretraga na 28(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,858 - Pretraga na 28(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,858 - Pretraga na 28(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,858 - Pretraga na 29(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,858 - Pretraga na 30(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,858 - Pretraga na 33(nizch) nadjeno Var nizch: Arr of char, 1, 0
+INFO  00:20:37,858 - Pretraga na 34(nizch) nadjeno Var nizch: Arr of char, 1, 0
+INFO  00:20:37,859 - Pretraga na 35(nizch) nadjeno Var nizch: Arr of char, 1, 0
+INFO  00:20:37,859 - Pretraga na 35(jedan) nadjeno Con jedan: int, 1, 0
+INFO  00:20:37,859 - Pretraga na 36(nizch) nadjeno Var nizch: Arr of char, 1, 0
+INFO  00:20:37,859 - Pretraga na 36(pet) nadjeno Con pet: int, 5, 0
+INFO  00:20:37,859 - Pretraga na 37(nizch) nadjeno Var nizch: Arr of char, 1, 0
+INFO  00:20:37,859 - Pretraga na 38(nizch) nadjeno Var nizch: Arr of char, 1, 0
+INFO  00:20:37,859 - Pretraga na 38(jedan) nadjeno Con jedan: int, 1, 0
+INFO  00:20:37,859 - Pretraga na 41(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,860 - Pretraga na 41(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,860 - Pretraga na 41(pet) nadjeno Con pet: int, 5, 0
+INFO  00:20:37,860 - Pretraga na 41(jedan) nadjeno Con jedan: int, 1, 0
+INFO  00:20:37,860 - Pretraga na 41(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,860 - Pretraga na 42(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,860 - Pretraga na 44(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,860 - Pretraga na 45(niz) nadjeno Var niz: Arr of int, 0, 0
+INFO  00:20:37,860 - Pretraga na 47(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,860 - Pretraga na 49(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,861 - Pretraga na 49(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,861 - Pretraga na 50(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,861 - Pretraga na 52(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,861 - Pretraga na 52(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,861 - Pretraga na 53(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  00:20:37,863 - Sintaksna i semanticka analiza je uspesno zavrsena!

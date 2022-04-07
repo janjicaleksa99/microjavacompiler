@@ -1,0 +1,249 @@
+INFO  15:42:13,558 - Compiling source file: D:\Cetvrta godina\Programski Prevodioci\projekat_v2\workspace\MJCompiler\test\program.mj
+INFO  15:42:13,637 - #2 program
+INFO  15:42:13,638 - #46 test301
+INFO  15:42:13,638 - #46 bool
+INFO  15:42:13,639 - #46 a
+INFO  15:42:13,640 - #36 ;
+INFO  15:42:13,640 - #7 const
+INFO  15:42:13,640 - #46 int
+INFO  15:42:13,640 - #46 nula
+INFO  15:42:13,641 - #33 =
+INFO  15:42:13,641 - #47 0
+INFO  15:42:13,641 - #36 ;
+INFO  15:42:13,641 - #7 const
+INFO  15:42:13,642 - #46 int
+INFO  15:42:13,642 - #46 jedan
+INFO  15:42:13,642 - #33 =
+INFO  15:42:13,642 - #47 1
+INFO  15:42:13,642 - #36 ;
+INFO  15:42:13,642 - #7 const
+INFO  15:42:13,642 - #46 int
+INFO  15:42:13,642 - #46 pet
+INFO  15:42:13,643 - #33 =
+INFO  15:42:13,643 - #47 5
+INFO  15:42:13,643 - #36 ;
+INFO  15:42:13,643 - #46 int
+INFO  15:42:13,643 - #46 niz
+INFO  15:42:13,643 - #42 [
+INFO  15:42:13,643 - #43 ]
+INFO  15:42:13,644 - #36 ;
+INFO  15:42:13,644 - #46 char
+INFO  15:42:13,644 - #46 nizch
+INFO  15:42:13,644 - #42 [
+INFO  15:42:13,644 - #43 ]
+INFO  15:42:13,644 - #36 ;
+INFO  15:42:13,644 - #44 {
+INFO  15:42:13,644 - #15 void
+INFO  15:42:13,644 - #46 main
+INFO  15:42:13,644 - #40 (
+INFO  15:42:13,645 - #41 )
+INFO  15:42:13,646 - #46 int
+INFO  15:42:13,647 - #46 bodovi
+INFO  15:42:13,647 - #36 ;
+INFO  15:42:13,647 - #44 {
+INFO  15:42:13,647 - #46 a
+INFO  15:42:13,648 - #33 =
+INFO  15:42:13,653 - #49 true
+INFO  15:42:13,654 - #36 ;
+INFO  15:42:13,658 - #46 bodovi
+INFO  15:42:13,659 - #33 =
+INFO  15:42:13,659 - #47 0
+INFO  15:42:13,659 - #36 ;
+INFO  15:42:13,659 - #46 bodovi
+INFO  15:42:13,659 - #34 ++
+INFO  15:42:13,659 - #36 ;
+INFO  15:42:13,660 - #46 bodovi
+INFO  15:42:13,660 - #35 --
+INFO  15:42:13,660 - #36 ;
+INFO  15:42:13,660 - #45 }
+INFO  15:42:13,660 - #45 }
+INFO  15:42:13,674 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  DeclVar(
+    DeclVar(
+      DeclConst(
+        DeclConst(
+          DeclConst(
+            DeclVar(
+              NoDeclaration(
+              ) [NoDeclaration]
+              VarDeclaration(
+                Type(
+                 bool
+                ) [Type]
+               a
+                NoVarIdentDecl(
+                ) [NoVarIdentDecl]
+              ) [VarDeclaration]
+            ) [DeclVar]
+            NumConstDecl(
+              Type(
+               int
+              ) [Type]
+             nula
+             0
+              NoConstIdentDecl(
+              ) [NoConstIdentDecl]
+            ) [NumConstDecl]
+          ) [DeclConst]
+          NumConstDecl(
+            Type(
+             int
+            ) [Type]
+           jedan
+           1
+            NoConstIdentDecl(
+            ) [NoConstIdentDecl]
+          ) [NumConstDecl]
+        ) [DeclConst]
+        NumConstDecl(
+          Type(
+           int
+          ) [Type]
+         pet
+         5
+          NoConstIdentDecl(
+          ) [NoConstIdentDecl]
+        ) [NumConstDecl]
+      ) [DeclConst]
+      VarArrayDecl(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarIdentDecl(
+        ) [NoVarIdentDecl]
+      ) [VarArrayDecl]
+    ) [DeclVar]
+    VarArrayDecl(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarIdentDecl(
+      ) [NoVarIdentDecl]
+    ) [VarArrayDecl]
+  ) [DeclVar]
+  MethodDeclarations(
+    MethodDeclWithRetVoid(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         bodovi
+          NoVarIdentDecl(
+          ) [NoVarIdentDecl]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      Statements(
+        NoLabelSingleStmt(
+          DesignStmt(
+            DesignStmtAssignExpr(
+              DesignAssignStatement(
+                Designator(
+                  DesignName(
+                   a
+                  ) [DesignName]
+                  NoArrayAccess(
+                  ) [NoArrayAccess]
+                ) [Designator]
+                Assignop(
+                ) [Assignop]
+                ExprAddOpTermList(
+                  Term(
+                    FactorBoolConst(
+                     true
+                    ) [FactorBoolConst]
+                    NoMulopFactor(
+                    ) [NoMulopFactor]
+                  ) [Term]
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                ) [ExprAddOpTermList]
+              ) [DesignAssignStatement]
+            ) [DesignStmtAssignExpr]
+          ) [DesignStmt]
+        ) [NoLabelSingleStmt]
+        StmtList(
+          StmtList(
+            StmtList(
+              NoStmt(
+              ) [NoStmt]
+              NoLabelSingleStmt(
+                DesignStmt(
+                  DesignStmtAssignExpr(
+                    DesignAssignStatement(
+                      Designator(
+                        DesignName(
+                         bodovi
+                        ) [DesignName]
+                        NoArrayAccess(
+                        ) [NoArrayAccess]
+                      ) [Designator]
+                      Assignop(
+                      ) [Assignop]
+                      ExprAddOpTermList(
+                        Term(
+                          FactorNumConst(
+                           0
+                          ) [FactorNumConst]
+                          NoMulopFactor(
+                          ) [NoMulopFactor]
+                        ) [Term]
+                        NoAddopTerm(
+                        ) [NoAddopTerm]
+                      ) [ExprAddOpTermList]
+                    ) [DesignAssignStatement]
+                  ) [DesignStmtAssignExpr]
+                ) [DesignStmt]
+              ) [NoLabelSingleStmt]
+            ) [StmtList]
+            NoLabelSingleStmt(
+              DesignStmt(
+                DesignStmtIncr(
+                  Designator(
+                    DesignName(
+                     bodovi
+                    ) [DesignName]
+                    NoArrayAccess(
+                    ) [NoArrayAccess]
+                  ) [Designator]
+                ) [DesignStmtIncr]
+              ) [DesignStmt]
+            ) [NoLabelSingleStmt]
+          ) [StmtList]
+          NoLabelSingleStmt(
+            DesignStmt(
+              DesignStmtDecr(
+                Designator(
+                  DesignName(
+                   bodovi
+                  ) [DesignName]
+                  NoArrayAccess(
+                  ) [NoArrayAccess]
+                ) [Designator]
+              ) [DesignStmtDecr]
+            ) [DesignStmt]
+          ) [NoLabelSingleStmt]
+        ) [StmtList]
+      ) [Statements]
+    ) [MethodDeclWithRetVoid]
+    NoMethodDecl(
+    ) [NoMethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:42:13,676 - ===================================
+INFO  15:42:13,681 - Obradjuje se funkcija main na liniji 14
+INFO  15:42:13,681 - Pretraga na 17(a) nadjeno Var a: bool, 0, 0
+INFO  15:42:13,681 - Pretraga na 18(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  15:42:13,681 - Pretraga na 19(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  15:42:13,682 - Pretraga na 20(bodovi) nadjeno Var bodovi: int, 0, 1
+INFO  15:42:13,687 - Sintaksna i semanticka analiza je uspesno zavrsena!
